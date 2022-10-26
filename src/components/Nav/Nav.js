@@ -24,7 +24,7 @@ const Nav = () => {
             </NavLink>
           </li>
            
-          <li className="dropdown dropdown-hover hover:border-none      ">
+          {/* <li className="dropdown dropdown-hover hover:border-none      ">
             <div className=" ">
               <li tabIndex={0} className="nav-item p-2   text-white ">
                 <NavLink className="mx-1 text-white-600 font-medium font-bold focus:text-white   lg:text-white ">
@@ -99,7 +99,7 @@ const Nav = () => {
                 </NavLink>
               </li>
             </ul>
-          </li>
+          </li> */}
           <li className="nav-item p-2 	">
             <NavLink
               className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
