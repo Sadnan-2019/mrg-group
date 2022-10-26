@@ -1,4 +1,5 @@
 import React from 'react';
+import Achievements from '../Achievements/Achievements';
 import Busniess from '../Busniess/Busniess';
 // import Chairman from '../Chairman/Chairman';
 import CompaniesProfile from '../CompaniesProfile/CompaniesProfile';
@@ -9,11 +10,12 @@ const Home = () => {
      return (
           <div>
                <Landing></Landing>
-               {/* <Busniess/> */}
+             
                <CompaniesProfile/>
-               {/* <Chairman/> */}
+               
 
                <Managment/>
+               <Achievements/>
           </div>
      );
 };
