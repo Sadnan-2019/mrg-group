@@ -4,13 +4,17 @@ import tmc from "../../assets/tmc.png"
 import tcc from "../../assets/tcc.png"
 import leap from "../../assets/leap.png"
 import tulip from "../../assets/tulip.png"
-import rose from "../../assets/rosegarden.png"
+// import rose from "../../assets/rosegarden.png"
 
 const Busniess = () => {
   return (
     <div>
       <div className=" md:py-20 py-10 lg:py-24 lg:mx-16 mx-8 grid grid-cols-1 md:grid-cols-1   lg:grid-cols-2  gap-5 items-center justify-items-center">
-        <div className="max-w-xl text-left md:ml-8 lg:order-1 order-2 mt-10 lg:mt-0">
+        <div className="max-w-xl text-left md:ml-8 lg:order-1 order-2 mt-10 lg:mt-0"  
+           data-aos-offset="300"
+           data-aos-delay="5000"
+           data-aos-duration="3000"
+           data-aos-easing="ease-in-out">
           <p
             className="lg:text-[43px] md:text-[30px] font-bold text-[26px] text-left poppins-b text-neutral "
             style={{ lineHeight: "120%"  }}
@@ -112,7 +116,7 @@ const Busniess = () => {
               style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
             >
               <img
-                src={rose}
+                src={tulip}
                 alt="Shoes"
                 className="rounded-xl w-15"
                 style={{ color: "white" }}
