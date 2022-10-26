@@ -6,7 +6,8 @@ import tulip from "../../assets/tulip.png";
 import mrs from "../../assets/mrs.png";
 import land from "../../assets/land.png";
 import leap from "../../assets/leap.png";
-import   agro  from   "../../assets/agro.png";
+import agro from "../../assets/agro.png";
+import rose from "../../assets/rose.png";
 const CompaniesProfile = () => {
   return (
     <div>
@@ -27,52 +28,150 @@ const CompaniesProfile = () => {
 
         <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-4 gap-2 items-center justify-items-center py-10">
           <div
-            className=" card	 w-40	 	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={hcah} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={hcah}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	  	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={tmc} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={tmc}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
+          </div>
+
+          <div
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
+          >
+            <figure className="">
+              <img
+                src={tulip}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	 	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={tcc} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={leap}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	  	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={tulip} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={mrs}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	  	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={leap} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={land}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	  	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={mrs} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={tcc}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
+          </div>
+
+          <div
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
+          >
+            <figure className="">
+              <img
+                src={agro}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
           <div
-            className=" card	w-40	 	 	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
+            className="card  border  shadow-xl bg-base-100   "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "200px" }}
           >
-            <img src={land} alt="Shoes" className="rounded-xl w-40	" />
-          </div>
-          <div
-            className=" card	w-40	 	 	 border-solid shadow-lg	p-5"
-            style={{ backgroundColor: " ", borderColor: "#F5F1EA" }}
-          >
-            <img src={agro} alt="Shoes" className="rounded-xl w-40	" />
+            <figure className="">
+              <img
+                src={rose}
+                alt="Shoes"
+                className="  p-4 w-96 "
+                style={{ height: "200px", borderRadius: "25px" }}
+              />
+            </figure>
           </div>
         </div>
       </div>
