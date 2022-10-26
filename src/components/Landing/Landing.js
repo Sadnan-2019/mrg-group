@@ -51,7 +51,7 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://www.kcc.rw/uploads/9/8/2/4/98249186/img-9399_orig.jpg")`,
+                backgroundImage: `url("https://scontent.fdac120-1.fna.fbcdn.net/v/t39.30808-6/311251970_549516216978270_1197917916719729489_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=jHvKrEhn1PoAX_GMhEu&_nc_ht=scontent.fdac120-1.fna&oh=00_AT_EZCtusOwiQIteVq7I3BgUDs8CdjwViji_ySiSK2OsNQ&oe=635D04D1")`,
               }}
             >
               <div className="hero-overlay bg-opacity-60"></div>
@@ -111,17 +111,16 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://placeimg.com/1000/800/arch")`,
+                backgroundImage: `url("https://lh3.googleusercontent.com/p/AF1QipO4xCgunHQ9tL8v9RisIF6iMWoMhiMW9y7Rk_ys=w1080-h608-p-no-v0")`,
               }}
             >
               <div className="hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Hello there</h1>
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to MRG</h1>
                   <p className="mb-5">
-                    Provident cupiditate voluptatem et in. Quaerat fugiat ut
-                    assumenda excepturi exercitationem quasi. In deleniti eaque
-                    aut repudiandae et a id nisi.
+                    Healthcare at Home
+                    we provided 24/7 service
                   </p>
                   <button className="btn btn-primary">Get Started</button>
                 </div>
