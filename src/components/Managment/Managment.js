@@ -8,95 +8,84 @@ const Managment = () => {
         Meet Our Management
       </h2>
 
-      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 px-12 gap-10    py-[25px] items-center justify-items-center">
-      <div
-          className="  bg-gradient-to-r from-[#303640] to-[#7e8999]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10"
-          style={{
-            borderRadius: "25px",
-            color: "white",
-            height: "200px",
-          }}
+      <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-4 px-12 gap-10    py-[25px] items-center justify-items-center">
+         
+
+        <div
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          
+          style={{ height: "300px" }}
         >
-          <div className=" ">
-            <h2 className="text-2xl font-bold "> Name one</h2>
-            <p className="text-[15px]">Managing Director</p>
-            <div className="card-actions   mt-5">
-              <button className="btn bg-neutral "  >
-                Details
-              </button>
-            </div>
-          </div>
-          <div className=" text-white">
-            {" "}
-            <img src={avater} className="w-62 h-36 rounded-lg " alt="" />{" "}
+          <figure className="">
+            <img
+              src={avater}
+              alt="Shoes"
+              className="  p-4  "
+              style={{ height: "150px", borderRadius: "25px" }}
+            />
+          </figure>
+          <div className=" items-center text-center text-white ">
+            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud </h2>
+            <p>CEO</p>
           </div>
         </div>
-      <div
-          className="  bg-gradient-to-r from-[#303640] to-[#7e8999]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10"
-          style={{
-            borderRadius: "25px",
-            color: "white",
-            height: "200px",
-          }}
+        <div
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          
+          style={{ height: "300px" }}
         >
-          <div className=" ">
-            <h2 className="text-2xl font-bold "> Name one</h2>
-            <p className="text-[15px]">Managing Director</p>
-            <div className="card-actions   mt-5">
-              <button className="btn bg-neutral "  >
-                Details
-              </button>
-            </div>
-          </div>
-          <div className=" text-white">
-            {" "}
-            <img src={avater} className="w-62 h-36 rounded-lg " alt="" />{" "}
+          <figure className="">
+            <img
+              src={avater}
+              alt="Shoes"
+              className="  p-4  "
+              style={{ height: "150px", borderRadius: "25px" }}
+            />
+          </figure>
+          <div className=" items-center text-center text-white ">
+            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud </h2>
+            <p>CEO</p>
           </div>
         </div>
-      <div
-          className="  bg-gradient-to-r from-[#303640] to-[#7e8999]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10"
-          style={{
-            borderRadius: "25px",
-            color: "white",
-            height: "200px",
-          }}
+        <div
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          
+          style={{ height: "300px" }}
         >
-          <div className=" ">
-            <h2 className="text-2xl font-bold "> Name one</h2>
-            <p className="text-[15px]">Managing Director</p>
-            <div className="card-actions   mt-5">
-              <button className="btn bg-neutral "  >
-                Details
-              </button>
-            </div>
-          </div>
-          <div className=" text-white">
-            {" "}
-            <img src={avater} className="w-62 h-36 rounded-lg " alt="" />{" "}
+          <figure className="">
+            <img
+              src={avater}
+              alt="Shoes"
+              className="  p-4  "
+              style={{ height: "150px", borderRadius: "25px" }}
+            />
+          </figure>
+          <div className=" items-center text-center text-white ">
+            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud </h2>
+            <p>CEO</p>
           </div>
         </div>
-      <div
-          className="  bg-gradient-to-r from-[#303640] to-[#7e8999]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10"
-          style={{
-            borderRadius: "25px",
-            color: "white",
-            height: "200px",
-          }}
+        <div
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          
+          style={{ height: "300px" }}
         >
-          <div className=" ">
-            <h2 className="text-2xl font-bold "> Name one</h2>
-            <p className="text-[15px]">Managing Director</p>
-            <div className="card-actions   mt-5">
-              <button className="btn bg-neutral "  >
-                Details
-              </button>
-            </div>
-          </div>
-          <div className=" text-white">
-            {" "}
-            <img src={avater} className="w-62 h-36 rounded-lg " alt="" />{" "}
+          <figure className="">
+            <img
+              src={avater}
+              alt="Shoes"
+              className="  p-4  "
+              style={{ height: "150px", borderRadius: "25px" }}
+            />
+          </figure>
+          <div className=" items-center text-center text-white ">
+            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud </h2>
+            <p>CEO</p>
           </div>
         </div>
+
+         
+        
          
       </div>
     </div>
