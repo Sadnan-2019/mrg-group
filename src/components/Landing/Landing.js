@@ -52,7 +52,7 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://i.ibb.co/H4RwST0/tcctwo.jpg")`,
+                backgroundImage: `url("https://scontent.fdac120-1.fna.fbcdn.net/v/t1.6435-9/50755866_547006865819300_8408494016408059904_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TsDAdJcGUfgAX8xz2Bz&_nc_ht=scontent.fdac120-1.fna&oh=00_AT8NUpL28xECZ0vOeChmFXqs07XmNenAEUP7reizFQjSIA&oe=6380282E")`,
               }}
             >
               <div className=" "></div>
