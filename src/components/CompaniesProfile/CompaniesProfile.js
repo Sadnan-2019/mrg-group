@@ -14,7 +14,7 @@ const CompaniesProfile = () => {
       <div>
       
         <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8">
-        Business Sectors
+        Companies Profile
       </h2>
 
         <p className="lg:text-[20px] md:text-[18px] font-bold text-[26px] text-left poppins-b text-neutral lg:text-center ">

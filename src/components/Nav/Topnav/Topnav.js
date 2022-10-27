@@ -1,6 +1,6 @@
 import React from "react";
 import logo from "../../../assets/logo.png";
-import { TiSocialTwitter } from "react-icons/ti";
+import { HiOutlineMailOpen } from "react-icons/hi";
 import { MdOutlinePhonelinkRing } from "react-icons/md";
 const Topnav = () => {
   return (
@@ -28,7 +28,7 @@ const Topnav = () => {
               <p className="text-[10px] lg:text-sm   	">
                 01619848555  
               </p>
-              <p className="text-[10px] lg:text-sm	 	">info@hcah.mrg.com.bd</p>
+              <p className="text-[10px] lg:text-sm	 	">01619848555  </p>
             </div>
           </div>
           <div
@@ -36,11 +36,11 @@ const Topnav = () => {
             style={{ color: "white" }}
           >
             <div>
-              <MdOutlinePhonelinkRing className="text-[10px] lg:text-2xl  	  " />
+              <HiOutlineMailOpen className="text-[10px] lg:text-2xl  	  " />
             </div>
             <div>
               <p className="text-[10px] lg:text-sm   	">
-                01619848555 / 01779848555
+                Email us
               </p>
               <p className="text-[10px] lg:text-sm	 	">info@hcah.mrg.com.bd</p>
             </div>

@@ -182,7 +182,7 @@ const Nav = () => {
           
           </div>
         </div>
-        <div className="navbar-center hidden lg:flex">
+        <div className="navbar-end hidden lg:flex">
           <ul className="  menu-horizontal p-0">{navItem}</ul>
         </div>
         {/* <div className="navbar-end">
