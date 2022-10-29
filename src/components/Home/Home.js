@@ -6,6 +6,7 @@ import CompaniesProfile from '../CompaniesProfile/CompaniesProfile';
 import Director from '../Director/Director';
 import Landing from '../Landing/Landing';
 import Managment from '../Managment/Managment';
+import News from '../News/News';
 
 const Home = () => {
      return (
@@ -18,6 +19,7 @@ const Home = () => {
                <Chairman/>
                <Managment/>
                <Achievements/>
+               <News/>
           </div>
      );
 };

@@ -13,7 +13,7 @@ const CompaniesProfile = () => {
     <div>
       <div>
       
-        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8">
+        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-[#F39E4B] py-8">
         Companies Profile
       </h2>
 
