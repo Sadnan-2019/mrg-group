@@ -12,7 +12,7 @@ const Director = () => {
          
 
         <div
-          className="card        bg-gradient-to-r from-[#F39E4B] to-[#4a473d]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          className="card      bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
           
           style={{ height: "300px" }}
         >
@@ -30,7 +30,25 @@ const Director = () => {
           </div>
         </div>
         <div
-          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          
+          style={{ height: "300px" }}
+        >
+          <figure className="">
+            <img
+              src={avater}
+              alt="Shoes"
+              className="  p-4  "
+              style={{ height: "150px", borderRadius: "25px" }}
+            />
+          </figure>
+          <div className=" items-center text-center text-white ">
+            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud hover</h2>
+            <p>CEO</p>
+          </div>
+        </div>
+        <div
+          className="card        bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d] w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
           
           style={{ height: "300px" }}
         >
@@ -48,25 +66,7 @@ const Director = () => {
           </div>
         </div>
         <div
-          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
-          style={{ height: "300px" }}
-        >
-          <figure className="">
-            <img
-              src={avater}
-              alt="Shoes"
-              className="  p-4  "
-              style={{ height: "150px", borderRadius: "25px" }}
-            />
-          </figure>
-          <div className=" items-center text-center text-white ">
-            <h2 className=" text-center font-bold">DR. Zahiruddin Mahmud </h2>
-            <p>CEO</p>
-          </div>
-        </div>
-        <div
-          className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          className="card      bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d] w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
           
           style={{ height: "300px" }}
         >

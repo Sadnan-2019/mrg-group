@@ -5,7 +5,7 @@ import { MdOutlinePhonelinkRing } from "react-icons/md";
 const Topnav = () => {
   return (
     <div>
-      <div className="flex justify-between	 px-12    items-center ">
+      <div className="flex justify-between	 px-12  bg-[#123261] items-center ">
         <div>
           <img src={logo} className="w-20" alt="" />
         </div>
@@ -19,7 +19,7 @@ const Topnav = () => {
           </div> */}
           <div
             className="flex items-center font-bold    gap-2"
-            style={{ color: "#F39E4B" }}
+            style={{ color: "white" }}
           >
             <div>
               <MdOutlinePhonelinkRing className="text-[10px] lg:text-2xl    " />
@@ -33,7 +33,7 @@ const Topnav = () => {
           </div>
           <div
             className="flex items-center font-bold    gap-2"
-            style={{ color: "#F39E4B" }}
+            style={{ color: "white" }}
           >
             <div>
               <HiOutlineMailOpen className="text-[10px] lg:text-2xl  	  " />
