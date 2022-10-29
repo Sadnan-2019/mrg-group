@@ -25,7 +25,8 @@ const CompaniesProfile = () => {
         </p>
 
         <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-4 gap-2 items-center justify-items-center py-10">
-          <div
+          <a href="https://www.hcah.mrg.com.bd/?fbclid=IwAR3e0yV_TpgKlr9LlKgUfLeiNrc8oPzr0z7vc1uprSPH17c-QM8mzKPFHJk" 
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -40,8 +41,9 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
-          <div
+          </a>
+          <a href="https://www.facebook.com/tmcdiagnostichospitaltr" 
+             target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -56,9 +58,10 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
+          </a>
 
-          <div
+          <a href="https://www.facebook.com/TulipgardenTrishal"
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -73,8 +76,10 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
-          <div
+          </a>
+          <a
+          href="https://www.facebook.com/leap.physio"
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -89,8 +94,9 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
-          <div
+          </a>
+          <a href="https://www.facebook.com/mrsviews"
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -105,7 +111,7 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
+          </a>
           <div
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
@@ -122,7 +128,9 @@ const CompaniesProfile = () => {
               />
             </figure>
           </div>
-          <div
+          <a
+          href="https://www.facebook.com/TCCTrishal"
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
@@ -137,7 +145,7 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
+          </a>
 
           <div
             className="card  border  shadow-xl bg-base-100   "
@@ -155,12 +163,15 @@ const CompaniesProfile = () => {
               />
             </figure>
           </div>
-          <div
+          <a
+          href="https://www.facebook.com/rosebeautytr"
+          target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000"
             style={{ height: "200px" }}
+            
           >
             <figure className="">
               <img
@@ -170,7 +181,7 @@ const CompaniesProfile = () => {
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
-          </div>
+          </a>
         </div>
       </div>
     </div>
