@@ -3,6 +3,7 @@ import Achievements from '../Achievements/Achievements';
 // import Busniess from '../Busniess/Busniess';
 import Chairman from '../Chairman/Chairman';
 import CompaniesProfile from '../CompaniesProfile/CompaniesProfile';
+import Contact from '../Contact/Contact';
 import Director from '../Director/Director';
 import Landing from '../Landing/Landing';
 import Managment from '../Managment/Managment';
@@ -20,6 +21,8 @@ const Home = () => {
                <Managment/>
                <Achievements/>
                <News/>
+
+               <Contact/>
           </div>
      );
 };
