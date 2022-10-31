@@ -4,7 +4,7 @@ import { HiOutlineMailOpen } from "react-icons/hi";
 import { MdOutlinePhonelinkRing } from "react-icons/md";
  
 import sub from "../../../assets/sub.png"
-import schs from "../../../assets/schs.webp"
+import schs from "../../../assets/schs.png"
 const Topnav = () => {
   return (
     <div>
@@ -59,8 +59,8 @@ const Topnav = () => {
             </div>
             <div>
               
-              <img src={sub} className="w-20  	" alt=""/>
-              <img src={schs} className="w-20 	" alt=""/>
+              <a href="https://www.sub.ac.bd/" target="_blank" ><img src={sub} className="w-20  	" alt=""/></a>
+              <a href="https://schs.edu.bd/" target="_blank" ><img src={schs} className="w-20 	" alt=""/></a>
                
             </div>
           </div>
