@@ -2,6 +2,9 @@ import React from "react";
 import logo from "../../../assets/logo.png";
 import { HiOutlineMailOpen } from "react-icons/hi";
 import { MdOutlinePhonelinkRing } from "react-icons/md";
+ 
+import sub from "../../../assets/sub.png"
+import schs from "../../../assets/schs.webp"
 const Topnav = () => {
   return (
     <div>
@@ -9,7 +12,7 @@ const Topnav = () => {
         <div>
           <img src={logo} className="w-20" alt="" />
         </div>
-        <div className="grid grid-cols-2 ">
+        <div className="grid grid-cols-3 justify-items-center items-center gap-12  ">
           {/* <div className="flex ">
             <a href="">
               <TiSocialTwitter className="text-lg ml-2 text-white" />
@@ -25,10 +28,10 @@ const Topnav = () => {
               <MdOutlinePhonelinkRing className="text-[10px] lg:text-2xl    " />
             </div>
             <div>
-              <p className="text-[10px] lg:text-sm   	">
+              <p className="text-[10px] lg:text-xs   	">
                 01619848555  
               </p>
-              <p className="text-[10px] lg:text-sm	 	">01619848555  </p>
+              <p className="text-[10px] lg:text-xs  	 	">01619848555  </p>
             </div>
           </div>
           <div
@@ -39,10 +42,26 @@ const Topnav = () => {
               <HiOutlineMailOpen className="text-[10px] lg:text-2xl  	  " />
             </div>
             <div>
-              <p className="text-[10px] lg:text-sm   	">
+              <p className="text-[10px] lg:text-xs     	">
                 Email us
               </p>
-              <p className="text-[10px] lg:text-sm	 	">info@hcah.mrg.com.bd</p>
+              <p className="text-[10px] lg:text-xs	 	">info@hcah.mrg.com.bd</p>
+            </div>
+          </div>
+          <div
+            className="flex items-center font-bold    gap-2"
+            style={{ color: "white" }}
+          >
+            <div>
+            <p className="text-[10px] lg:text-xs   	">
+                Link Organization
+              </p>
+            </div>
+            <div>
+              
+              <img src={sub} className="w-20  	" alt=""/>
+              <img src={schs} className="w-20 	" alt=""/>
+               
             </div>
           </div>
         </div>

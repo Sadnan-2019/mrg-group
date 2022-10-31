@@ -24,17 +24,17 @@ const Contact = () => {
           <div className="form-control w-full max-w-xs">
             
                 
-            <Input label="Name" type="text" name="name" icon={<i className="fas fa-heart" />} />
+            <Input label="Email" type="text" name="name" icon={<i className="fas fa-heart" />} />
           </div>
           <div className="form-control w-full max-w-xs">
             
                 
-            <Input label="Name" type="text" name="name" icon={<i className="fas fa-heart" />} />
+            <Input label="Phone" type="text" name="name" icon={<i className="fas fa-heart" />} />
           </div>
           <div className="form-control w-full max-w-xs">
             
                 
-            <Input label="Name" type="text" name="name" icon={<i className="fas fa-heart" />} />
+            <Input label="Subject" type="text" name="name" icon={<i className="fas fa-heart" />} />
           </div>
 
           <div className="form-control w-full max-w-xs">
