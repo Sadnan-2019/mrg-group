@@ -8,6 +8,7 @@ import { Route, Routes } from "react-router-dom";
 // import News from './components/News/News';
 import NewsMedia from './components/NewsMedia/NewsMedia';
 import NewsLanding from './components/NewsMedia/NewsLanding';
+import Carrer from './components/Carrer/Carrer';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <Route path="/home" element={<Home />}></Route>
         <Route path="/" element={<Home />}></Route>
         <Route path="/news-media" element={<NewsMedia/>}></Route>
+        <Route path="/career" element={<Carrer/>}></Route>
         
  
        

@@ -111,7 +111,7 @@ const Nav = () => {
           <li className="nav-item p-2 	">
             <NavLink
               className={({ isActive }) => (isActive ? `${active}` : `${normal}`)}
-              to="/testimonials"
+              to="/career"
             >
               Career
             </NavLink>
