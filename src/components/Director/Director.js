@@ -10,6 +10,10 @@ const Director = () => {
       <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 px-12 gap-10    py-[25px] items-center justify-items-center">
       <div
           className="card      bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d]  w-7/12 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
+          data-aos="fade-right"
+        data-aos-offset="300"
+        data-aos-delay="5000"
+        data-aos-duration="3000"
           
           style={{ height: "300px" }}
         >
@@ -28,7 +32,10 @@ const Director = () => {
         </div>
         <div
           className="card      bg-gradient-to-r from-[#303640] to-[#103264] hover:from-[#F39E4B] hover:to-[#4a473d]  w-7/12 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
+          data-aos="fade-left"
+        data-aos-offset="300"
+        data-aos-delay="5000"
+        data-aos-duration="3000"
           style={{ height: "300px" }}
         >
           <figure className="">
