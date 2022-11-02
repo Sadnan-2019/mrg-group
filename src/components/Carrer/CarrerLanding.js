@@ -9,7 +9,7 @@ const CarrerLanding = () => {
     <div className="max-w-md">
       <h1 className="mb-5 text-5xl font-bold">Carrer</h1>
       <p className="mb-5">MRG Group of Companies is one of the largest conglomerates in Bangladesh, Specialized in the Healthcare, Education, Convention Center & Advanced Poultry/ Fish Feeds Sector.</p>
-      <button className="btn btn-primary">Get Started</button>
+       
     </div>
   </div>
 </div>  
