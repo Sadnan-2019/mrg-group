@@ -25,11 +25,7 @@ const AboutDetails = () => {
             If you have the expertise and the desire to join MRG GROUP, click
             the button below for possibilities and opportunities.
           </p>
-          <div className="py-2 px-5">
-            <button className="btn btn-xs sm:btn-sm md:btn-md mb-4 ">
-              Drop your cv
-            </button>
-          </div>
+           
         </div>
         <div>
           <img src={career} alt=""/>

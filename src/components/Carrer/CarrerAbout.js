@@ -4,7 +4,8 @@ const CarrerAbout = () => {
   return (
     <div>
       <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8">
-        Introduction
+      Carrer
+
       </h2>
 
       <div className="grid grid-cols-1 lg:grid-cols-2 px-12 gap-10  items-center justify-items-center">
