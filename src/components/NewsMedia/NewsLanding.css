@@ -13,9 +13,9 @@
      min-height: 300px;
      color: #fff;
      background-position: 50% 50%;
-     background-size: cover;
-      /* background-position: center;
-      background-attachment: fixed; */
+     /* background-size: cover; */
+      /* background-position: center; */
+      background-attachment: fixed;
     }
     /* banner-area {
      position: relative;
