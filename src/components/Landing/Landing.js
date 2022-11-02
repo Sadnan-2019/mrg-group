@@ -56,9 +56,9 @@ const Landing = () => {
               }}
             >
               <div className=" "></div>
-              <div className="hero-content text-center text-neutral-content text-[#da7007]" >
+              <div className="hero-content text-center text-neutral-content  " >
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to MRG </h1>
+                  <h1 className="mb-5 text-5xl font-bold ">Welcome to MRG </h1>
                   <p className="mb-5">
                     Our Convention center .We provide spacial service.
                   </p>

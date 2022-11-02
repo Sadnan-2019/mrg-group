@@ -24,7 +24,13 @@ const Footer = () => {
     <a className="link link-hover">Privacy policy</a>
     <a className="link link-hover">Cookie policy</a>
   </div>
+  
 </footer>
+<div>
+<p class="text-sm text-center text-white  py-2 bg-[#123261] ">
+            Copyright &copy; 2022 MRG        
+          </p>
+</div>
           </div>
      );
 };

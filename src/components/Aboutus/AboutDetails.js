@@ -1,5 +1,5 @@
 import React from "react";
-import career from "../../assets/carreer.png";
+import akij from "../../assets/akij.jpg";
 const AboutDetails = () => {
   return (
     <div>
@@ -34,7 +34,7 @@ const AboutDetails = () => {
             </p>
           </div>
           <div>
-            <img src={career} alt="" />
+            <img className="p-4" src={akij} alt="" />
           </div>
         </div>
       </div>
