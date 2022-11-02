@@ -33,7 +33,10 @@ const AboutDetails = () => {
               experience and proven track record in this sector.
             </p>
           </div>
-          <div>
+          <div data-aos="zoom-in"
+        data-aos-offset="300"
+        data-aos-delay="5000"
+        data-aos-duration="3000">
             <img className="p-4" src={akij} alt="" />
           </div>
         </div>

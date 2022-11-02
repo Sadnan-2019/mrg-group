@@ -13,7 +13,8 @@ const Managment = () => {
 
         <div
           className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
+          data-aos="fade-up"
+          data-aos-duration="1000"
           style={{ height: "300px" }}
         >
           <figure className="">
@@ -31,7 +32,8 @@ const Managment = () => {
         </div>
         <div
           className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
+          data-aos="fade-up"
+          data-aos-duration="800"
           style={{ height: "300px" }}
         >
           <figure className="">
@@ -49,7 +51,8 @@ const Managment = () => {
         </div>
         <div
           className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
+          data-aos="fade-up"
+          data-aos-duration="700"
           style={{ height: "300px" }}
         >
           <figure className="">
@@ -67,7 +70,8 @@ const Managment = () => {
         </div>
         <div
           className="card        bg-gradient-to-r from-[#303640] to-[#103264]  w-5/6 flex items-center justify-center	 gap-5      shadow-lg shadow-white-1000/50 border   p-10 "
-          
+          data-aos="fade-up"
+          data-aos-duration="800"
           style={{ height: "300px" }}
         >
           <figure className="">
