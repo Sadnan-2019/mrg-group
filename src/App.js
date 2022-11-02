@@ -17,7 +17,7 @@ function App() {
     <div className=" ">
 
 
-      <Topnav/>
+      {/* <Topnav/> */}
        <Nav/>
        {/* <Home></Home> */}
        <Routes>

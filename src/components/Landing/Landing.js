@@ -46,7 +46,10 @@ const Landing = () => {
 
   return (
     <div>
-      <div className="  px-7 py-7 ">
+      <div className="  px-7 py-7  " data-bs-ride="carousel" data-aos="fade-down"
+        data-aos-offset="300"
+        data-aos-delay="5000"
+        data-aos-duration="3000">
         <Slider {...settings}>
           <div className="">
             <div

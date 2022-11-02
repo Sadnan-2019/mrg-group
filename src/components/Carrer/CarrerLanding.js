@@ -3,7 +3,10 @@ import "./CarrerLanding.css"
 const CarrerLanding = () => {
     return (
         <div>
-                 <div className="hero min-h-screen carrer"  >
+                 <div className="hero min-h-screen carrer"data-aos="fade-down"
+        data-aos-offset="300"
+        data-aos-delay="5000"
+        data-aos-duration="3000"  >
   <div className="  "></div>
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">

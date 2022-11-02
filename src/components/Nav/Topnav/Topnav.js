@@ -7,7 +7,7 @@ import sub from "../../../assets/sub.png"
 import schs from "../../../assets/schs.png"
 const Topnav = () => {
   return (
-    <div>
+    <div className=" ">
       <div className="flex justify-between	 px-12  bg-[#123261] items-center ">
         <div>
           <img src={logo} className="w-20" alt="" />

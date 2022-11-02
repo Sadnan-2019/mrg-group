@@ -5,6 +5,7 @@ import { FaFacebookSquare } from "react-icons/fa";
 import { BsLinkedin } from "react-icons/bs";
 import { TiSocialTwitter } from "react-icons/ti";
 import { TiSocialInstagram } from "react-icons/ti";
+import Topnav from './Topnav/Topnav';
 
 
 const Nav = () => {
@@ -144,7 +145,8 @@ const Nav = () => {
         </>
       );
     return (
-        <div>
+        <div className='sticky top-0 z-50'>
+          <Topnav/>
            <div className="navbar bg-[#123261] " >
         <div className="navbar-start">
           <div className="dropdown">
