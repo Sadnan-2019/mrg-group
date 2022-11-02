@@ -10,6 +10,7 @@ import NewsMedia from './components/NewsMedia/NewsMedia';
 // import NewsLanding from './components/NewsMedia/NewsLanding';
 import Carrer from './components/Carrer/Carrer';
 import Gallery from './components/Gallery/Gallery';
+import Aboutus from './components/Aboutus/Aboutus';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
         <Route path="/news-media" element={<NewsMedia/>}></Route>
         <Route path="/career" element={<Carrer/>}></Route>
         <Route path="/gallery" element={<Gallery/>}></Route>
+        <Route path="/about" element={<Aboutus/>}></Route>
         
  
        
