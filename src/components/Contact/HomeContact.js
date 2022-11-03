@@ -66,10 +66,10 @@ const HomeContact = () => {
             </div>
           </div>
           <div>
-            <div className=" flex-shrink-0 w-full max-w-sm       ">
+            <div className="   w-full max-w-sm       ">
               <div className=" ">
                 <div
-                  className="flex items-center justify-center font-bold    gap-10 mb-7"
+                  className="flex items-center justify-items-center  font-bold    gap-10 mb-7"
                   style={{ color: "white" }}
                 >
                   <div>
@@ -85,7 +85,7 @@ const HomeContact = () => {
                   </div>
                 </div>
                 <div
-                  className="flex items-center justify-center font-bold    gap-10 mb-7"
+                  className="flex items-center justify-items-center  font-bold    gap-10 mb-7"
                   style={{ color: "white" }}
                 >
                   <div>
@@ -102,7 +102,24 @@ const HomeContact = () => {
                   </div>
                 </div>
                 <div
-                  className="flex items-center justify-center font-bold    gap-10 mb-7"
+                  className="flex items-center justify-items-center  font-bold    gap-10 mb-7"
+                  style={{ color: "white" }}
+                >
+                  <div>
+                    
+                     <img
+                      src="https://cdn-icons-png.flaticon.com/512/819/819865.png"
+                      className="w-12 bg-white rounded-full p-2   " alt=""
+                    />
+                  </div>
+                  <div>
+                    <p className="text-[10px] lg:text-xs     	">Address</p>
+                    <p className="text-[10px] lg:text-xs	 	">House No 11 Road 108</p>
+                    <p className="text-[10px] lg:text-xs	 	">Gulshan 2, Dhaka 1212</p>
+                  </div>
+                </div>
+                <div
+                  className="flex items-center justify-items-center  font-bold    gap-10 mb-7"
                   style={{ color: "white" }}
                 >
                   <div>
