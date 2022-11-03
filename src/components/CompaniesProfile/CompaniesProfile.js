@@ -35,11 +35,11 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={hcah}
                 alt="Shoes"
-                className="  p-4 w-96 "
+                className="  p-4 w-96  "
                 style={{ height: "200px", borderRadius: "25px" }}
               />
             </figure>
@@ -52,7 +52,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={tmc}
                 alt="Shoes"
@@ -70,7 +70,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={tulip}
                 alt="Shoes"
@@ -88,7 +88,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={leap}
                 alt="Shoes"
@@ -105,7 +105,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={mrs}
                 alt="Shoes"
@@ -121,7 +121,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={land}
                 alt="Shoes"
@@ -139,7 +139,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={tcc}
                 alt="Shoes"
@@ -156,7 +156,7 @@ const CompaniesProfile = () => {
             data-aos-duration="2000"
             style={{ height: "200px" }}
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={agro}
                 alt="Shoes"
@@ -175,7 +175,7 @@ const CompaniesProfile = () => {
             style={{ height: "200px" }}
             
           >
-            <figure className="">
+            <figure className="hover:  transition duration-500 hover:scale-110">
               <img
                 src={rose}
                 alt="Shoes"
