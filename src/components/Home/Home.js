@@ -4,6 +4,7 @@ import Achievements from '../Achievements/Achievements';
 import Chairman from '../Chairman/Chairman';
 import CompaniesProfile from '../CompaniesProfile/CompaniesProfile';
 import Contact from '../Contact/Contact';
+import HomeContact from '../Contact/HomeContact';
 import Director from '../Director/Director';
 import Landing from '../Landing/Landing';
 import Managment from '../Managment/Managment';
@@ -21,8 +22,8 @@ const Home = () => {
                <Managment/>
                <Achievements/>
                <News/>
-
-               <Contact/>
+                    <HomeContact/>
+               {/* <Contact/> */}
           </div>
      );
 };

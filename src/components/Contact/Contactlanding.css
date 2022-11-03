@@ -1,0 +1,20 @@
+.contact{
+
+
+    background-image: 
+  
+    
+       url("../../assets/contact.jpg");
+   
+     background-repeat: no-repeat;
+     background-size: cover;
+   
+     
+     
+    min-height: 300px;
+    color: #fff;
+    background-position: 50% 50%;
+    /* background-size: cover; */
+     background-position: center;
+     /* background-attachment: fixed; */
+   }

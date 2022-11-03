@@ -11,6 +11,7 @@ import NewsMedia from './components/NewsMedia/NewsMedia';
 import Carrer from './components/Carrer/Carrer';
 import Gallery from './components/Gallery/Gallery';
 import Aboutus from './components/Aboutus/Aboutus';
+import Contact from './components/Contact/Contact';
 
 function App() {
   return (
@@ -27,6 +28,7 @@ function App() {
         <Route path="/career" element={<Carrer/>}></Route>
         <Route path="/gallery" element={<Gallery/>}></Route>
         <Route path="/about" element={<Aboutus/>}></Route>
+        <Route path="/contact" element={<Contact/>}></Route>
         
  
        
