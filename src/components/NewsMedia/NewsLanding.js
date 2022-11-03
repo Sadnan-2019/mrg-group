@@ -19,6 +19,10 @@ const NewsLanding = () => {
   </div>
 </div>
         </div>
+
+ 
+
+
     );
 };
 

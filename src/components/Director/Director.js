@@ -4,7 +4,8 @@ import avater from "../../assets/avater.png";
 const Director = () => {
      return (
           <div>
-      <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8"data-aos="fade-up"
+      <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8" 
+      data-aos="fade-up"
           data-aos-duration="1000">
       Board Of   Directors
       </h2>

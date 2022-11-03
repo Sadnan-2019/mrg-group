@@ -1,11 +1,7 @@
-.news{
+.news {
+  background-image: url("../../assets/media-banner.jpg");
 
-
-     background-image: 
-    
-        url("../../assets/media-banner.jpg");
-    
-      background-repeat: no-repeat;
+  /* background-repeat: no-repeat;
       background-size: cover;
     
       
@@ -13,11 +9,19 @@
      min-height: 300px;
      color: #fff;
      background-position: 50% 50%;
-     background-size: cover;
-      /* background-position: center; */
+   
+      background-position: center;
       background-attachment: fixed;
-    }
-    /* banner-area {
+      position: relative; */
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  min-height: 300px;
+  background-position: center;
+  background-position: 50% 50%;
+   
+}
+/* banner-area {
      position: relative;
      min-height: 300px;
      color: #fff;

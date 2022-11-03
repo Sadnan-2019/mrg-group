@@ -13,11 +13,13 @@ const CompaniesProfile = () => {
     <div>
       <div>
       
-        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8">
+        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8" data-aos="fade-up"
+          data-aos-duration="1000">
         Companies Profile
       </h2>
 
-        <p className="lg:text-[20px] md:text-[18px] font-bold text-[26px] text-left poppins-b text-neutral lg:text-center ">
+        <p className="lg:text-[20px] md:text-[18px] font-bold text-[26px] text-left poppins-b text-neutral lg:text-center " data-aos="fade-up"
+          data-aos-duration="1000">
           MRG GROUP stands out of ventures engaged till date. The steadfast
           consistency, success and encouragement from the customers and
           stakeholders ignites confidence in our journey of sustainability and

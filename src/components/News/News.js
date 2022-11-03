@@ -80,7 +80,11 @@ const News = () => {
          
            
         </div>
-        
+        <div className="py-2 px-5   flex justify-center">
+            <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            More News
+            </button>
+          </div>
       </div>
         </div>
     );
