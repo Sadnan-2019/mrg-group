@@ -13,13 +13,7 @@ const Topnav = () => {
           <img src={logo} className="w-20" alt="" />
         </div>
         <div className="grid grid-cols-3 justify-items-center items-center gap-12  ">
-          {/* <div className="flex ">
-            <a href="">
-              <TiSocialTwitter className="text-lg ml-2 text-white" />
-            </a>
-            <p>Toll Free: 08000016609</p>
-            <p>Hot Line:16609</p>
-          </div> */}
+           
           <div
             className="flex items-center font-bold    gap-2"
             style={{ color: "white" }}
