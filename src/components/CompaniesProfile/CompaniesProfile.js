@@ -26,7 +26,7 @@ const CompaniesProfile = () => {
           growth.
         </p>
 
-        <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-4 gap-2 items-center justify-items-center py-10     ">
+        <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-3 gap-2 items-center justify-items-center py-10     ">
           <a href="https://www.hcah.mrg.com.bd/?fbclid=IwAR3e0yV_TpgKlr9LlKgUfLeiNrc8oPzr0z7vc1uprSPH17c-QM8mzKPFHJk" 
           target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
