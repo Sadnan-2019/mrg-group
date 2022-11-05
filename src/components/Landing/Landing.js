@@ -65,7 +65,9 @@ const Landing = () => {
                   <p className="mb-5">
                     Our Convention center .We provide spacial service.
                   </p>
-                  <button className="btn btn-primary">Get Started</button>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            Get Started
+            </button>
                 </div>
               </div>
             </div>
@@ -85,7 +87,9 @@ const Landing = () => {
                   <p className="mb-5">
                     This our Tulip garden city.
                   </p>
-                  <button className="btn btn-primary">Get Started</button>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            Get Started
+            </button>
                 </div>
               </div>
             </div>
@@ -105,7 +109,9 @@ const Landing = () => {
                   <p className="mb-5">
                     Trishal Medical center 
                   </p>
-                  <button className="btn btn-primary">Get Started</button>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            Get Started
+            </button>
                 </div>
               </div>
             </div>
@@ -126,7 +132,9 @@ const Landing = () => {
                     Healthcare at Home
                     we provided 24/7 service
                   </p>
-                  <button className="btn btn-primary">Get Started</button>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            Get Started
+            </button>
                 </div>
               </div>
             </div>
