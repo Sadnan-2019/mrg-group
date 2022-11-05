@@ -66,7 +66,11 @@ const HomeContact = () => {
             </div>
           </div>
           <div>
-            <div className="   w-full max-w-sm       ">
+            <div className="   w-full max-w-sm       "
+            data-aos="fade-left"
+            data-aos-duration="1000"
+            
+            >
               <div className=" ">
                 <div
                   className="flex items-center justify-items-center  font-bold    gap-10 mb-7"

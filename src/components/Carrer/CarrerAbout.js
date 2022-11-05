@@ -31,7 +31,7 @@ const CarrerAbout = () => {
             </button>
           </div>
         </div>
-        <div>
+        <div className="py-4">
           <img src={career} alt=""/>
         </div>
       </div>

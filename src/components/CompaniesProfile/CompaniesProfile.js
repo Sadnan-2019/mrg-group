@@ -18,7 +18,7 @@ const CompaniesProfile = () => {
         Companies Profile
       </h2>
 
-        <p className="lg:text-[20px] md:text-[18px] font-bold text-[26px] text-left poppins-b text-neutral lg:text-center " data-aos="fade-up"
+        <p className="  text-center font-bold sm:text-4xl  lg:text-[20px] md:text-[18px]   poppins-b text-neutral " data-aos="fade-up"
           data-aos-duration="1000">
           MRG GROUP stands out of ventures engaged till date. The steadfast
           consistency, success and encouragement from the customers and
