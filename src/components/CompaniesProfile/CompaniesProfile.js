@@ -11,14 +11,14 @@ import rose from "../../assets/rose.png";
 const CompaniesProfile = () => {
   return (
     <div>
-      <div>
+      <div className="shadow-2xl bg-gradient-to-r from-[#103264]  to-[#303640] text-white p-4">
       
-        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold text-neutral py-8" data-aos="fade-up"
+        <h2 className=" text-center  sm:text-4xl lg:text-[43px] md:text-[30px] font-bold   py-8" data-aos="fade-up"
           data-aos-duration="1000">
         Companies Profile
       </h2>
 
-        <p className="  text-center font-bold sm:text-4xl  lg:text-[20px] md:text-[18px]   poppins-b text-neutral " data-aos="fade-up"
+        <p className="  text-center font-bold sm:text-4xl  lg:text-[20px] md:text-[18px]   poppins-b  " data-aos="fade-up"
           data-aos-duration="1000">
           MRG GROUP stands out of ventures engaged till date. The steadfast
           consistency, success and encouragement from the customers and
@@ -26,7 +26,7 @@ const CompaniesProfile = () => {
           growth.
         </p>
 
-        <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-4 gap-2 items-center justify-items-center py-10">
+        <div className="grid sm:grid-cols-1 mx-12 md:grid-cols-3 lg:grid-cols-4 gap-2 items-center justify-items-center py-10     ">
           <a href="https://www.hcah.mrg.com.bd/?fbclid=IwAR3e0yV_TpgKlr9LlKgUfLeiNrc8oPzr0z7vc1uprSPH17c-QM8mzKPFHJk" 
           target="_blank" 
             className="card  border  shadow-xl bg-base-100   "
