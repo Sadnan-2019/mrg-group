@@ -7,7 +7,7 @@ const MoreNews = () => {
         News & Events
       </h2>
       <div className="py-12">
-        <div className="grid grid-cols-3 px- 12 items-center justify-items-center gap-12 mx-12">
+        <div className="grid sm:grid-cols-1 lg:grid-cols-3 px- 12 items-center justify-items-center gap-12 mx-12">
         <div
             className="card  border     "
             data-aos="flip-left"
