@@ -10,7 +10,7 @@ const ContactLanding = () => {
         data-aos-delay="5000"
         data-aos-duration="3000"  >
   <div className="  "></div>
-  <div className="hero-content text-center text-neutral-content">
+  <div className="hero-content text-center  ">
     <div className="max-w-md">
       <h1 className="mb-5 text-5xl font-bold">Contact</h1>
       <p className="mb-5">MRG Group of Companies is one of the largest conglomerates in Bangladesh, Specialized in the Healthcare, Education, Convention Center & Advanced Poultry/ Fish Feeds Sector.</p>

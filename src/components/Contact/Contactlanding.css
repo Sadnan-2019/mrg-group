@@ -1,20 +1,119 @@
-.contact{
+.contact {
+  background-image: url("../../assets/contact.jpg");
 
+  background-repeat: no-repeat;
+  background-size: cover;
 
-    background-image: 
-  
-    
-       url("../../assets/contact.jpg");
-   
-     background-repeat: no-repeat;
-     background-size: cover;
-   
-     
-     
+  min-height: 300px;
+  color: #fff;
+  background-position: 50% 50%;
+  /* background-size: cover; */
+  background-position: center;
+  /* background-attachment: fixed; */
+}
+
+@media only screen and (max-width: 380px) {
+  .contact {
+    width: 100%;
+    background-image: url("../../assets/contact.jpg");
+
+    background-repeat: no-repeat;
+    background-size: cover;
+
     min-height: 300px;
-    color: #fff;
-    background-position: 50% 50%;
-    /* background-size: cover; */
-     background-position: center;
-     /* background-attachment: fixed; */
-   }
+    color: white;
+    /* background-position: 50% 50%; */
+  
+    background-position: center;
+ 
+    
+
+  
+    background-size: cover;
+
+     
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+  }
+}
+
+
+
+
+/* @media only screen and (min-width: 380px) and (max-width: 540px) {
+  .landing {
+    width: 100%;
+    background-image: linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ),
+      url("../../assets/homelanding.png");
+    height: auto;
+
+    background-size: contain;
+    background-size: cover;
+
+    background-size: auto 90%;
+
+    background-repeat: no-repeat;
+  }
+}
+@media only screen and (min-width: 447px) and (max-width: 767px) {
+  .landing {
+    width: 100%;
+    background-image: linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ),
+      url("../../assets/homelanding.png");
+    height: auto;
+
+    background-size: contain;
+    background-size: cover;
+
+    background-size: auto 100%;
+
+    background-repeat: no-repeat;
+  }
+}
+
+@media only screen and (min-width: 540px) and (max-width: 725px) {
+  .landing {
+    width: 100%;
+    background-image: linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ),
+      url("../../assets/homelanding.png");
+    height: auto;
+
+    background-size: contain;
+    background-size: cover;
+
+    background-size: auto 100%;
+
+    background-repeat: no-repeat;
+  }
+}
+@media only screen and (min-width: 725px) and (max-width: 1000px) {
+  .landing {
+    width: 100%;
+    background-image: linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ),
+      url("../../assets/homelanding.png");
+    height: auto;
+
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 90%;
+
+    background-repeat: no-repeat;
+  }
+} */
