@@ -77,15 +77,16 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://images.adsttc.com/media/images/5192/55d3/b3fc/4b8d/f000/005c/large_jpg/MBS_Image_by_BIG_03.jpg?1368544714")`,
+                backgroundImage: `url("https://hcah.mrg.com.bd/static/media/nurseservice.a7aa8c08eeeb13c8337d.jpg")`,
               }}
             >
               <div className="hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to MRG </h1>
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to HealthCare at Home Bangladesh </h1>
                   <p className="mb-5">
-                    This our Tulip garden city.
+                    We are the pioneers of home HealthCare service provider.Giving service to patients at home
+                    .Our services are nursing,MATS,Physiotherapy,Medical Caregiver & Caregiver.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
             Get Started
@@ -99,15 +100,16 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://scontent.fdac120-1.fna.fbcdn.net/v/t1.6435-9/50755866_547006865819300_8408494016408059904_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TsDAdJcGUfgAX8xz2Bz&_nc_ht=scontent.fdac120-1.fna&oh=00_AT8NUpL28xECZ0vOeChmFXqs07XmNenAEUP7reizFQjSIA&oe=6380282E")`,
+                backgroundImage: `url("https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/474/2019/06/27190650/joint-img.jpg")`,
               }}
             >
               <div className=" "></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to MRG</h1>
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to Trishal Medical Center </h1>
                   <p className="mb-5">
-                    Trishal Medical center 
+                    We have experts surgeons performing surgery everyday.We have state of the art 
+                    equipments.You can not go wrong with TMC.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
             Get Started
@@ -121,16 +123,15 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://lh3.googleusercontent.com/p/AF1QipO4xCgunHQ9tL8v9RisIF6iMWoMhiMW9y7Rk_ys=w1080-h608-p-no-v0")`,
+                backgroundImage: `url("https://stepupstudent.com/wp-content/uploads/2019/08/cropped-72dea39e-6316-11e7-b1de-0034c3d6ea80.jpg")`,
               }}
             >
               <div className="hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to MRG</h1>
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to LEAP</h1>
                   <p className="mb-5">
-                    Healthcare at Home
-                    we provided 24/7 service
+                     LEAP is one stop solution for your pain.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
             Get Started
