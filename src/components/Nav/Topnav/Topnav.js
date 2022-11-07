@@ -47,7 +47,7 @@ const Topnav = () => {
             style={{ color: "white" }}
           >
             <div>
-            <p className="text-[10px] lg:text-xs   	">
+            <p className="text-[8px] sm:m-4 lg:text-xs text-transparent  bg-clip-text bg-gradient-to-r from-[#FECD04] to-[#F2A04A]  	">
                 Link Organization
               </p>
             </div>

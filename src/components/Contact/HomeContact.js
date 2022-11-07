@@ -67,8 +67,8 @@ const HomeContact = () => {
           </div>
           <div>
             <div className="   w-full max-w-sm    py-5   "
-            data-aos="fade-left"
-            data-aos-duration="1000"
+            data-aos="fade-right"
+            data-aos-duration="800"
             
             >
               <div className=" ">
