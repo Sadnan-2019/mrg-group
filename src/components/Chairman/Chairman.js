@@ -5,7 +5,7 @@ const Chairman = () => {
     <div>
       <div className="py-[10px] px-10">
         <div className=" grid grid-cols-1 md:grid-cols-2  lg:grid-cols-2  bg-base-100   py-10 items-center justify-items-center shadow-2xl bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4 ">
-          <div>
+          <div className=" w-5/6 h-96">
             {/* <img src="https://idiary.in/Images/snap2.jpg" alt="Album" /> */}
 
             <iframe
@@ -14,7 +14,7 @@ const Chairman = () => {
               frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
-              className="w-[450px] h-80"
+              className=" h-96 w-5/6"
             ></iframe>
           </div>
 

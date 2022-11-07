@@ -8,9 +8,9 @@ import schs from "../../../assets/schs.png"
 const Topnav = () => {
   return (
     <div className=" ">
-      <div className="flex justify-between	 px-12  bg-[#123261] items-center ">
+      <div className="flex   flex-col md:flex-row  justify-between px-10	 lx:px-12  bg-[#123261] items-center ">
         <div>
-          <img src={logo} className="w-20" alt="" />
+          <img  src={logo} className="w-20" alt="" />
         </div>
         <div className="grid grid-cols-3 justify-items-center items-center gap-12  ">
            
@@ -39,11 +39,11 @@ const Topnav = () => {
               <p className="text-[10px] lg:text-xs     	">
                 Email us
               </p>
-              <p className="text-[10px] lg:text-xs	 	">info@hcah.mrg.com.bd</p>
+              <p className="text-[10px] lg:text-xs	 	">info@mrg.com.bd</p>
             </div>
           </div>
           <div
-            className="flex items-center font-bold    gap-2"
+            className="   lg:flex items-center font-bold    gap-2"
             style={{ color: "white" }}
           >
             <div>

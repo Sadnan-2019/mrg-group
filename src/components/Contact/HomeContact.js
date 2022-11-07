@@ -66,7 +66,7 @@ const HomeContact = () => {
             </div>
           </div>
           <div>
-            <div className="   w-full max-w-sm       "
+            <div className="   w-full max-w-sm    py-5   "
             data-aos="fade-left"
             data-aos-duration="1000"
             
@@ -134,10 +134,10 @@ const HomeContact = () => {
                   </div>
                   <div>
                     <a href="https://www.sub.ac.bd/" target="_blank">
-                      <img src={sub} className="  w-40 lg:w-28  	" alt="" />
+                      <img src={sub} className="  w-20 lg:w-28  	" alt="" />
                     </a>
                     <a href="https://schs.edu.bd/" target="_blank">
-                      <img src={schs} className="   w-40 lg:w-28  	" alt="" />
+                      <img src={schs} className="  w-20 lg:w-28  	" alt="" />
                     </a>
                   </div>
                 </div>

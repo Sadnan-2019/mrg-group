@@ -13,15 +13,15 @@ import News from '../News/News';
 const Home = () => {
      return (
           <div>
-               <Landing></Landing>
+               {/* <Landing></Landing> */}
              
                <CompaniesProfile/>
           
                <Director/>
-               <Chairman/>
-               <Managment/>
+               {/* <Chairman/> */}
+               {/* <Managment/>
                <Achievements/>
-               <News/>
+               <News/> */}
                     <HomeContact/>
                {/* <Contact/> */}
           </div>
