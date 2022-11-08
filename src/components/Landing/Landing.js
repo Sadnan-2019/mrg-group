@@ -51,6 +51,32 @@ const Landing = () => {
         data-aos-delay="5000"
         data-aos-duration="3000">
         <Slider {...settings}>
+
+        <div className="">
+            <div
+              className="hero min-h-screen"
+              style={{
+                backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
+              }}
+            >
+              <div className=" hero-overlay bg-opacity-60"></div>
+              <div className="hero-content text-center text-neutral-content">
+                <div className="max-w-md">
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to Trishal Medical Center </h1>
+                  <p className="mb-5">
+                    We have experts surgeons performing surgery everyday.We have state of the art 
+                    equipments.You can not go wrong with TMC.
+                  </p>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            Get Started
+            </button>
+                </div>
+              </div>
+            </div>
+          </div>
+
+
+
           <div className="">
             <div
               className="hero min-h-screen"
@@ -101,13 +127,13 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
+                backgroundImage: `url("https://img.freepik.com/free-photo/fresh-raw-crucian-wooden-with-herbs_2829-11279.jpg?w=2000")`,
               }}
             >
-              <div className=" "></div>
+              <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to Trishal Medical Center </h1>
+                  <h1 className="mb-5 text-5xl font-bold">Welcome to Trishal Agro(Fish,Dairy,Poultry) </h1>
                   <p className="mb-5">
                     We have experts surgeons performing surgery everyday.We have state of the art 
                     equipments.You can not go wrong with TMC.
