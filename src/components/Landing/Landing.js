@@ -4,7 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel/slick/slick.css";
 import "./Landing.css";
-import tcc from "../../assets/tccone.jpg"
+// import tcc from "../../assets/tccone.jpg"
 const Landing = () => {
   var settings = {
     dots: true,
@@ -55,15 +55,16 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://scontent.fdac120-1.fna.fbcdn.net/v/t1.6435-9/50755866_547006865819300_8408494016408059904_n.jpg?stp=dst-jpg_p180x540&_nc_cat=103&ccb=1-7&_nc_sid=8bfeb9&_nc_ohc=TsDAdJcGUfgAX8xz2Bz&_nc_ht=scontent.fdac120-1.fna&oh=00_AT8NUpL28xECZ0vOeChmFXqs07XmNenAEUP7reizFQjSIA&oe=6380282E")`,
+                backgroundImage: `url("https://i.ibb.co/7NQdLX4/tulipgarden.pngE")`,
               }}
             >
-              <div className=" "></div>
+              <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content  " >
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold ">Welcome to MRG </h1>
+                  <h1 className="mb-5 text-5xl font-bold ">Welcome to Tulip Garden & Resturent  </h1>
                   <p className="mb-5">
-                    Our Convention center .We provide spacial service.
+                   Tulip garden welcomes you to dine chines,thai,continental & desi food at  any time.
+                   We have options for home delivery as well.We offer discounts on selected items.We are open for birthday,matrimonial party.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
             Get Started
@@ -100,7 +101,7 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("https://wp02-media.cdn.ihealthspot.com/wp-content/uploads/sites/474/2019/06/27190650/joint-img.jpg")`,
+                backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
               }}
             >
               <div className=" "></div>
@@ -131,7 +132,10 @@ const Landing = () => {
                 <div className="max-w-md">
                   <h1 className="mb-5 text-5xl font-bold">Welcome to LEAP</h1>
                   <p className="mb-5">
-                     LEAP is one stop solution for your pain.
+                     LEAP is one stop solution for your pain.If you are suffering from lower backpain 
+                     ,neckpain,shoulder pain,we have physiotherapy treatment your condition.We also can 
+                     treat post-stroke paralysis.we have equipments which are very latest,those will 
+                     help to reduce your suffering.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
             Get Started
