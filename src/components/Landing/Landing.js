@@ -57,7 +57,7 @@ const Landing = () => {
         <Slider {...settings}>
           <div className=" ">
             <div
-              className="hero min-h-screen landingone"
+              className="hero sm:min-h-screen-0 lg:min-h-screen landingone bg-cover bg-center"
               style={{
                 backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
               }}
