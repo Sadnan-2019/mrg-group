@@ -48,24 +48,24 @@ const Landing = () => {
     <div>
       <div
         className="  px-7 py-7  "
-        data-bs-ride="carousel"
-        data-aos="fade-down"
-        data-aos-offset="300"
-        data-aos-delay="5000"
-        data-aos-duration="3000"
+        // data-bs-ride="carousel"
+        // data-aos="fade-down"
+        // data-aos-offset="300"
+        // data-aos-delay="5000"
+        // data-aos-duration="3000"
       >
         <Slider {...settings}>
-          <div className="">
+          <div className=" ">
             <div
-              className="hero min-h-screen"
+              className="hero min-h-screen landingone"
               style={{
                 backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
               }}
             >
-              <div className=" hero-overlay bg-opacity-60"></div>
+              <div className=" hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">
+                  <h1 className="mb-5 sm:text-xl lg:text-5xl font-bold">
                     Welcome to Trishal Medical Center{" "}
                   </h1>
                   <p className="mb-5">
@@ -143,7 +143,7 @@ const Landing = () => {
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
                   <h1 className="mb-5 text-5xl font-bold">
-                    Welcome to Trishal Agro(Fish,Dairy,Poultry{" "}
+                    Welcome to Trishal Agro(Fish,Dairy,Poultry)
                   </h1>
                   <p className="mb-5">
                     We have experts surgeons performing surgery everyday.We have

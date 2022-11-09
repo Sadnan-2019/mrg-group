@@ -3,3 +3,23 @@
   color: rgb(5, 2, 14);
 }
 
+@media only screen and (max-width: 375px) {
+  .landingone {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg");
+    height: auto;
+    color: rgb(223, 11, 11);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 75%;
+    
+    background-repeat: no-repeat;
+  }
+}
