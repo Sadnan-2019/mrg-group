@@ -62,15 +62,15 @@ const Landing = () => {
                 backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
               }}
             >
-              <div className=" hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
+              <div className=" hero-overlay  sm:bg-opacity-0 lg:bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 sm:text-xl lg:text-5xl font-bold">
+                  <h1 className="mb-5 max-w-lg  sm:text-xl lg:text-5xl font-bold" style={{ lineHeight: "120%", color: "#453364" }}>
                     Welcome to Trishal Medical Center{" "}
                   </h1>
-                  <p className="mb-5">
+                  <p className="mb-5 max-w-lg " style={{ lineHeight: "120%", color: "#453364" }}>
                     We have experts surgeons performing surgery everyday.We have
-                    state of the art equipments.You can not go wrong with TMC.
+                    state of the art equipments.You can not go wrong with TMC.We alwayes dedicated for your care.we are active 24/7 days.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -82,20 +82,20 @@ const Landing = () => {
 
           <div className="">
             <div
-              className="hero min-h-screen"
+              className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo bg-cover bg-center"
               style={{
                 backgroundImage: `url("https://hcah.mrg.com.bd/static/media/nurseservice.a7aa8c08eeeb13c8337d.jpg")`,
               }}
             >
-              <div className="hero-overlay bg-opacity-60"></div>
+              <div className="hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">
+                  <h1 className="mb-5 max-w-lg sm:text-xl lg:text-5xl font-bold" style={{ lineHeight: "120%", color: "#453364" }}>
                     Welcome to HealthCare at Home Bangladesh{" "}
                   </h1>
-                  <p className="mb-5">
+                  <p className="mb-5 max-w-lg " style={{ lineHeight: "120%", color: "#453364" }}>
                     We are the pioneers of home HealthCare service
-                    provider.Giving service to patients at home .Our services
+                    provider. Our services
                     are nursing,MATS,Physiotherapy,Medical Caregiver &
                     Caregiver.
                   </p>

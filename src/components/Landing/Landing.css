@@ -21,6 +21,28 @@
     background-size: 100% 100%;
     
     background-repeat: no-repeat;
-    background-position: center;
+    /* background-position: center; */
   }
+  .landingtwo {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://hcah.mrg.com.bd/static/media/nurseservice.a7aa8c08eeeb13c8337d.jpg");
+    height: auto;
+    color: rgb(223, 11, 11);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 100%;
+    
+    background-repeat: no-repeat;
+    /* background-position: center; */
+  }
+
+
+
 }
