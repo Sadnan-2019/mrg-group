@@ -59,7 +59,7 @@ const Landing = () => {
             <div
               className="hero sm:min-h-screen-0 lg:min-h-screen landingone bg-cover bg-center"
               style={{
-                backgroundImage: `url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg")`,
+                backgroundImage: `url("http://www.vanajahospital.com/assets/images/slider/advanced-laproscopic-surgeon-2.jpg")`,
               }}
             >
               <div className=" hero-overlay  sm:bg-opacity-0 lg:bg-opacity-60"></div>
@@ -74,7 +74,8 @@ const Landing = () => {
                   <p className="mb-5 max-w-lg " style={{ lineHeight: "120%" }}>
                     We have experts surgeons performing surgery everyday.We have
                     state of the art equipments.You can not go wrong with TMC.We
-                    alwayes dedicated for your care.we are active 24/7 days.
+                    alwayes dedicate ourselves for your care.we are active 24/7.
+                    If you want to know more please  click the button.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -88,7 +89,7 @@ const Landing = () => {
             <div
               className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo bg-cover bg-center"
               style={{
-                backgroundImage: `url("https://hcah.mrg.com.bd/static/media/nurseservice.a7aa8c08eeeb13c8337d.jpg")`,
+                backgroundImage: `url("https://www.c3homehealthcare.com/upload/image/services/post-hospitalization-care.jpg")`,
               }}
             >
               <div className="hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
@@ -102,8 +103,9 @@ const Landing = () => {
                   </h1>
                   <p className="mb-5 max-w-lg " style={{ lineHeight: "120%" }}>
                     We are the pioneers of home HealthCare service provider. Our
-                    services are nursing,MATS,Physiotherapy,Medical Caregiver &
-                    Caregiver.
+                    services are nursing, MATS, Physiotherapy, Medical Caregiver
+                    & Caregiver.We also setup ICU at home with medical
+                    equipments & ICU consultant physician.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -114,16 +116,21 @@ const Landing = () => {
           </div>
           <div className="">
             <div
-              className="hero min-h-screen"
+              className="   hero    sm:min-h-screen-0 lg:min-h-screen  landingthree bg-cover bg-center  "
               style={{
                 backgroundImage: `url("https://stepupstudent.com/wp-content/uploads/2019/08/cropped-72dea39e-6316-11e7-b1de-0034c3d6ea80.jpg")`,
               }}
             >
               <div className="hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
-                <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">Welcome to LEAP</h1>
-                  <p className="mb-5">
+                <div className="max-w-lg">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
+                    Welcome to LEAP
+                  </h1>
+                  <p className="mb-5 max-w-lg " style={{ lineHeight: "120%" }}>
                     LEAP is one stop solution for your pain.If you are suffering
                     from pain in your back,shoulder,leg,arm,we have
                     physiotherapy treatment.We also can treat post-stroke
@@ -147,13 +154,18 @@ const Landing = () => {
             >
               <div className=" hero-overlay bg-opacity-"></div>
               <div className="hero-content text-center text-neutral-content">
-                <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold">
+                <div className="max-w-lg">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
                     Welcome to Trishal Agro
                   </h1>
-                  <p className="mb-5">
-                    We will supplyn you with organic food.We have
-                    fisheries,Poultry & Dairy.
+                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
+                     Trishal Agro is a combination of Fisheries,Poultry & Dairy.
+                  We have organic food for your.We have more than 10 hatcheries.
+                  We have 7 fisheries.We grow different types of fishes.
+                    
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -172,14 +184,17 @@ const Landing = () => {
             >
               <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content  ">
-                <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold ">
-                    Welcome to Tulip Garden & Restaurant{" "}
+                <div className="max-w-lg">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
+                    Welcome to<br></br> Tulip Garden & Restaurant{" "}
                   </h1>
-                  <p className="mb-5">
+                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
                     Tulip garden welcomes you to dine chinese,thai,continental &
                     desi food at any time. We have options for home delivery.We
-                    are open for birthdays,matrimonial & any other  parties.
+                    are open for birthdays,matrimonial & any other parties.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -197,14 +212,16 @@ const Landing = () => {
             >
               <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content  ">
-                <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold ">
+                <div className="max-w-lg">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
                     Welcome to Rose Beauty Garden{" "}
                   </h1>
-                  <p className="mb-5">
-                   We have expert beautician for bridal-makeup.You can 
-                   relay on our friendly  staff.We will fill-up all your
-                   make up needs.
+                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
+                    We have expert beautician for bridal-makeup.You can relay on
+                    our friendly staff.We will fill-up all your make up needs.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -217,18 +234,21 @@ const Landing = () => {
             <div
               className="hero min-h-screen"
               style={{
-                backgroundImage: `url("http://34.120.136.253/hall_media/hall_index_2730/hall_pic__1e76a6d340cf70ead4214dd5c8ff32fca56a6187")`,
+                backgroundImage: `url("https://www.jaypeehotels.com/blog/wp-content/uploads/2020/11/banquet-halls-in-Greater-Noida-for-weddings-1024x682-1.jpg")`,
               }}
             >
               <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content  ">
                 <div className="max-w-md">
-                  <h1 className="mb-5 text-5xl font-bold ">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
                     Welcome to TCC{" "}
                   </h1>
-                  <p className="mb-5">
-                   Trishal Convention Center can accomodate 2000 people at a
-                   time.We are open for meetings,convocation &  get together.  
+                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
+                    Trishal Convention Center can accomodate 2000 people at a
+                    time.We are open for meetings,convocation & get together.
                   </p>
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started

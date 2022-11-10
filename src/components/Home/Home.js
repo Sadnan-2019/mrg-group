@@ -17,7 +17,7 @@ const Home = () => {
 
       <CompaniesProfile />
 
-      <Director />
+      {/* <Director /> */}
       <Chairman />
       <Managment />
       <Achievements />

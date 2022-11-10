@@ -13,13 +13,14 @@
         rgba(230, 242, 244, 0.837)
       ), */
       url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg");
-    height: auto;
+  
     color: rgb(109, 13, 13);
     background-size: contain;
     background-size: cover;
 
-    background-size: 100% 100%;
-    
+    background-size: 100% auto;
+    font-size: 12px;
+    line-height: 120%;
     background-repeat: no-repeat;
     /* background-position: center; */
   }
@@ -32,7 +33,7 @@
         rgba(230, 242, 244, 0.837)
       ), */
       url("https://hcah.mrg.com.bd/static/media/nurseservice.a7aa8c08eeeb13c8337d.jpg");
-    height: auto;
+    
     color: rgb(223, 11, 11);
     background-size: contain;
     background-size: cover;
@@ -40,6 +41,28 @@
     background-size: 100% 100%;
     
     background-repeat: no-repeat;
+    font-size: 12px;
+    line-height: 120%;
+    /* background-position: center; */
+  }
+  .landingthree {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://stepupstudent.com/wp-content/uploads/2019/08/cropped-72dea39e-6316-11e7-b1de-0034c3d6ea80.jpg");
+    
+    color: rgb(179, 38, 184);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 100%;
+    line-height: 120%;
+    background-repeat: no-repeat;
+    font-size: 12px;
     
     /* background-position: center; */
   }
