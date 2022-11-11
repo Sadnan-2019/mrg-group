@@ -57,7 +57,7 @@ const Landing = () => {
         <Slider {...settings}>
           <div className=" ">
             <div
-              className="hero sm:min-h-screen-0 lg:min-h-screen landingone bg-cover bg-center"
+              className="hero sm:min-h-screen-0 lg:min-h-screen landingone  "
               style={{
                 backgroundImage: `url("http://www.vanajahospital.com/assets/images/slider/advanced-laproscopic-surgeon-2.jpg")`,
               }}
@@ -87,7 +87,7 @@ const Landing = () => {
 
           <div className="">
             <div
-              className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo bg-cover bg-center"
+              className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo  "
               style={{
                 backgroundImage: `url("https://www.c3homehealthcare.com/upload/image/services/post-hospitalization-care.jpg")`,
               }}
@@ -116,7 +116,7 @@ const Landing = () => {
           </div>
           <div className="">
             <div
-              className="   hero    sm:min-h-screen-0 lg:min-h-screen  landingthree bg-cover bg-center  "
+              className="   hero    sm:min-h-screen-0 lg:min-h-screen  landingthree    "
               style={{
                 backgroundImage: `url("https://stepupstudent.com/wp-content/uploads/2019/08/cropped-72dea39e-6316-11e7-b1de-0034c3d6ea80.jpg")`,
               }}
@@ -147,13 +147,13 @@ const Landing = () => {
 
           <div className="">
             <div
-              className="hero min-h-screen"
+              className=" hero    sm:min-h-screen-0 lg:min-h-screen landingfour     "
               style={{
                 backgroundImage: `url("https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/DCTM_Penguin_UK_DK_AL644648_p7nd0z.jpg")`,
               }}
             >
               <div className=" hero-overlay bg-opacity-"></div>
-              <div className="hero-content text-center text-neutral-content">
+              <div className="hero-content text-center text-neutral-content ">
                 <div className="max-w-lg">
                   <h1
                     className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
@@ -177,7 +177,7 @@ const Landing = () => {
 
           <div className="">
             <div
-              className="hero min-h-screen"
+              className="hero    sm:min-h-screen-0 lg:min-h-screen landingfive "
               style={{
                 backgroundImage: `url("https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Cheeseburger-Sliders-with-Vegetables-and-Sesame-Seeds.jpg")`,
               }}
@@ -205,7 +205,7 @@ const Landing = () => {
           </div>
           <div className="">
             <div
-              className="hero min-h-screen"
+              className="hero    sm:min-h-screen-0 lg:min-h-screen landingsix"
               style={{
                 backgroundImage: `url("https://www.hindiroot.com/wp-content/uploads/2021/03/how-to-start-a-beauty-parlor-business-in-hindi.jpg")`,
               }}
@@ -232,7 +232,7 @@ const Landing = () => {
           </div>
           <div className="">
             <div
-              className="hero min-h-screen"
+              className="hero    sm:min-h-screen-0 lg:min-h-screen landingseven"
               style={{
                 backgroundImage: `url("https://www.jaypeehotels.com/blog/wp-content/uploads/2020/11/banquet-halls-in-Greater-Noida-for-weddings-1024x682-1.jpg")`,
               }}

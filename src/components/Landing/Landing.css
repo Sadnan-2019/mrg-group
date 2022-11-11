@@ -14,12 +14,12 @@
       ), */
       url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg");
   
-    color: rgb(109, 13, 13);
+    color: red;
     background-size: contain;
     background-size: cover;
 
-    background-size: 100% auto;
-    font-size: 12px;
+    background-size: 100% 100%;
+    
     line-height: 120%;
     background-repeat: no-repeat;
     /* background-position: center; */
@@ -41,7 +41,7 @@
     background-size: 100% 100%;
     
     background-repeat: no-repeat;
-    font-size: 12px;
+    
     line-height: 120%;
     /* background-position: center; */
   }
@@ -62,7 +62,91 @@
     background-size: 100% 100%;
     line-height: 120%;
     background-repeat: no-repeat;
-    font-size: 12px;
+    
+    
+    /* background-position: center; */
+  }
+  .landingfour {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/DCTM_Penguin_UK_DK_AL644648_p7nd0z.jpg");
+    
+    color: rgb(179, 38, 184);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 120%;
+    line-height: 120%;
+    background-repeat: no-repeat;
+    
+    
+    /* background-position: center; */
+  }
+  .landingfive {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Cheeseburger-Sliders-with-Vegetables-and-Sesame-Seeds.jpg");
+    
+    color: rgb(179, 38, 184);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 120%;
+    line-height: 120%;
+    background-repeat: no-repeat;
+    
+    
+    /* background-position: center; */
+  }
+  .landingsix {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://www.hindiroot.com/wp-content/uploads/2021/03/how-to-start-a-beauty-parlor-business-in-hindi.jpg");
+    
+    color: rgb(179, 38, 184);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 120%;
+    line-height: 120%;
+    background-repeat: no-repeat;
+    
+    
+    /* background-position: center; */
+  }
+  .landingseven {
+    width: 100%;
+    background-image: 
+    /* linear-gradient(
+        to left,
+        rgba(243, 238, 234, 0),
+        rgba(230, 242, 244, 0.837)
+      ), */
+      url("https://www.hindiroot.com/wp-content/uploads/2021/03/how-to-start-a-beauty-parlor-business-in-hindi.jpg");
+    
+    color: rgb(179, 38, 184);
+    background-size: contain;
+    background-size: cover;
+
+    background-size: 100% 120%;
+    line-height: 120%;
+    background-repeat: no-repeat;
+    
     
     /* background-position: center; */
   }
