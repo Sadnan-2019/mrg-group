@@ -57,7 +57,7 @@ const Landing = () => {
         <Slider {...settings}>
           <div className=" ">
             <div
-              className="hero sm:min-h-screen-0 lg:min-h-screen landingone  "
+              className="hero sm:min-h-screen-0 lg:min-h-screen landingone   "
               style={{
                 backgroundImage: `url("http://www.vanajahospital.com/assets/images/slider/advanced-laproscopic-surgeon-2.jpg")`,
               }}
@@ -89,7 +89,7 @@ const Landing = () => {
             <div
               className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo  "
               style={{
-                backgroundImage: `url("https://www.c3homehealthcare.com/upload/image/services/post-hospitalization-care.jpg")`,
+                backgroundImage: `url("https://techcrunch.com/wp-content/uploads/2015/09/portea-provides-home-healthcare-across-24-cities-in-india-and-4-in-malaysia.jpg")`,
               }}
             >
               <div className="hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
@@ -144,7 +144,34 @@ const Landing = () => {
               </div>
             </div>
           </div>
-
+          <div className="">
+            <div
+              className="hero    sm:min-h-screen-0 lg:min-h-screen landingfive "
+              style={{
+                backgroundImage: `url("https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Cheeseburger-Sliders-with-Vegetables-and-Sesame-Seeds.jpg")`,
+              }}
+            >
+              <div className=" hero-overlay bg-opacity-60"></div>
+              <div className="hero-content text-center text-neutral-content  ">
+                <div className="max-w-lg">
+                  <h1
+                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
+                    style={{ lineHeight: "120%" }}
+                  >
+                    Welcome to<br></br> Tulip Garden & Restaurant{" "}
+                  </h1>
+                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
+                    Tulip garden welcomes you to dine chinese,thai,continental &
+                    desi food at any time. We have options for home delivery.We
+                    are open for birthdays,matrimonial & any other parties.
+                  </p>
+                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+                    Get Started
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
           <div className="">
             <div
               className=" hero    sm:min-h-screen-0 lg:min-h-screen landingfour     "
@@ -175,34 +202,7 @@ const Landing = () => {
             </div>
           </div>
 
-          <div className="">
-            <div
-              className="hero    sm:min-h-screen-0 lg:min-h-screen landingfive "
-              style={{
-                backgroundImage: `url("https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Cheeseburger-Sliders-with-Vegetables-and-Sesame-Seeds.jpg")`,
-              }}
-            >
-              <div className=" hero-overlay bg-opacity-60"></div>
-              <div className="hero-content text-center text-neutral-content  ">
-                <div className="max-w-lg">
-                  <h1
-                    className="mb-5 max-w-lg sm:text-xl lg:text-[30px] font-bold"
-                    style={{ lineHeight: "120%" }}
-                  >
-                    Welcome to<br></br> Tulip Garden & Restaurant{" "}
-                  </h1>
-                  <p className="mb-5 max-w-lg" style={{ lineHeight: "120%" }}>
-                    Tulip garden welcomes you to dine chinese,thai,continental &
-                    desi food at any time. We have options for home delivery.We
-                    are open for birthdays,matrimonial & any other parties.
-                  </p>
-                  <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
-                    Get Started
-                  </button>
-                </div>
-              </div>
-            </div>
-          </div>
+          
           <div className="">
             <div
               className="hero    sm:min-h-screen-0 lg:min-h-screen landingsix"
@@ -234,7 +234,7 @@ const Landing = () => {
             <div
               className="hero    sm:min-h-screen-0 lg:min-h-screen landingseven"
               style={{
-                backgroundImage: `url("https://www.jaypeehotels.com/blog/wp-content/uploads/2020/11/banquet-halls-in-Greater-Noida-for-weddings-1024x682-1.jpg")`,
+                backgroundImage: `url("https://communitycenterbd.com/wp-content/uploads/2018/10/Celebrity-Convention-Hall.jpg")`,
               }}
             >
               <div className=" hero-overlay bg-opacity-60"></div>

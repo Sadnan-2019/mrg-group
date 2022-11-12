@@ -20,7 +20,7 @@ const CompaniesProfile = () => {
 
         <p className="  text-center font-bold sm:text-4xl  lg:text-[20px] md:text-[18px]   poppins-b  " data-aos="fade-up"
           data-aos-duration="1000">
-          MRG GROUP stands out of ventures engaged till date. The steadfast
+          MR GROUP stands out of ventures engaged till date. The steadfast
           consistency, success and encouragement from the customers and
           stakeholders ignites confidence in our journey of sustainability and
           growth.

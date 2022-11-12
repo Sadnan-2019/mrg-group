@@ -26,16 +26,16 @@ const Chairman = () => {
             <h2 className=" lg:text-[43px] md:text-[30px] font-bold text-white leading-10	">
               For the People, for the Country
             </h2>
-            <p className=" max-w-lg  lg:text-[20px] md:text-[20px]   text-white    ">
-              MRG group is one of the leading and fastest-growing conglomerates
-              in Bangladesh. Hospitality,Resturant,Convension center,Life
-              enrichment activity program, Medical equipment,
-              Materials,Agriculture, Media & Entertainment.
+            <p className=" max-w-lg lg:text-[20px] md:text-[20px]   text-white    ">
+              MR group is one of the leading and fastest-growing conglomerates
+              in Bangladesh. Hospital,Restaurant,Convention Center,Life
+              Enrichment Activity Program, Medical equipment,
+              Agriculture,Fisheries, Media Solution,Beauty Parlor & Entertainment.
             </p>
             {/* <div className="card-actions  ">
               <button className="btn bg-neutral  " style={{ color: "white" }}>
                 About More
-              </button>
+              </button>auty
             </div> */}
           </div>
         </div>
