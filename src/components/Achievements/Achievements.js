@@ -14,11 +14,11 @@ const Achievements = () => {
         </div>
         <div >
           <img src="https://i.ibb.co/Y09Zs0b/25.png" className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
-          <img src={achivtwo} className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
+          <img src= "https://i.ibb.co/fvwNBy0/slider1-6.png" className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
         </div>
 
         <div>
-          <img src={achivtwo}className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
+          <img src="https://i.ibb.co/6gS48SX/slider3.png" className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
           <img src={achivtwo} className="p-2 hover:  transition duration-500 hover:scale-110" alt="" />
         </div>
       </div>

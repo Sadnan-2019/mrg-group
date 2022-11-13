@@ -11,7 +11,7 @@ const News = () => {
         </div>
         <div className="grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3  mx-10 gap-10      py-8">
           <div
-            className="card  border     "
+            className="card  border w-full h-full    "
             data-aos="flip-left"
             data-aos-easing="ease-out-cubic"
             data-aos-duration="2000"
@@ -19,11 +19,12 @@ const News = () => {
           >
             <figure className="">
               <img
-                src="https://placeimg.com/400/225/arch"
+                src="https://i.ibb.co/QcMVHtK/9.png"
                 alt="Shoes"
-                className="  p-4  "
-                style={{ height: "250px", borderRadius: "25px" }}
+                className=" w-full  p-4  hover:  transition duration-500 hover:scale-110 "
+                style={{  height:"250px",borderRadius: "25px" }}
               />
+              {/* <img src="https://i.ibb.co/QcMVHtK/9.png" className="p-2        hover:  transition duration-500 hover:scale-110" alt="" /> */}
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
