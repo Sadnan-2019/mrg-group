@@ -72,7 +72,7 @@ const Landing = () => {
                     Welcome to TMC{" "}
                   </h1>
                   <p className="mb-5 max-w-lg " style={{ lineHeight: "120%" }}>
-                    We have experts surgeons performing surgery everyday.We have
+                    Trishal medical center  have experts surgeons performing surgery everyday.We have
                     state of the art equipments.You can not go wrong with TMC.We
                     alwayes dedicate ourselves for your care.we are active 24/7.
                     If you want to know more please  click the button.
