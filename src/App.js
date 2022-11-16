@@ -13,6 +13,7 @@ import Gallery from './components/Gallery/Gallery';
 import Aboutus from './components/Aboutus/Aboutus';
 import Contact from './components/Contact/Contact';
 
+
 function App() {
   return (
     <div className=" ">

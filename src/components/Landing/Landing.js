@@ -69,7 +69,7 @@ const Landing = () => {
                     className="mb-5 max-w-lg  sm:text-xl lg:text-[33px]  font-bold"
                     style={{ lineHeight: "120%" }}
                   >
-                    Welcome to TMC{" "}
+                    Welcome to TMC 
                   </h1>
                   <p className="mb-5 max-w-lg " style={{ lineHeight: "120%" }}>
                     Trishal medical center  have experts surgeons performing surgery everyday.We have
@@ -77,9 +77,11 @@ const Landing = () => {
                     alwayes dedicate ourselves for your care.we are active 24/7.
                     If you want to know more please  click the button.
                   </p>
+                  <a href="https://www.facebook.com/tmcdiagnostichospitaltr" target="_blank" >
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+                    </a>
                 </div>
               </div>
             </div>
@@ -107,9 +109,12 @@ const Landing = () => {
                     & Caregiver.We also setup ICU at home with medical
                     equipments & ICU consultant physician.
                   </p>
+                  <a target="_blank" href="https://www.hcah.mrg.com.bd/?fbclid=IwAR3e0yV_TpgKlr9LlKgUfLeiNrc8oPzr0z7vc1uprSPH17c-QM8mzKPFHJk">
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+                  </a>
+                  
                 </div>
               </div>
             </div>
