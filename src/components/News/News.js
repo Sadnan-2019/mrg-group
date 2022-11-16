@@ -28,7 +28,7 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                For the people of mymenshing division we have opened up a branch of our physiotherapy center-
+                For the people of mymenshing division we have opened up a branch of our physiotherapy center.
               </h2>
             </div>
           </div>
