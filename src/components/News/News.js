@@ -28,7 +28,8 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                For the people of mymenshing division we have opened up a branch of our physiotherapy center.
+                For the people of mymenshing division we have opened up a branch of our physiotherapy center and the name is LEAP.That 
+                stands for life enrichment  acitivity program.
               </h2>
             </div>
           </div>
@@ -52,12 +53,8 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries, but also the leap into
-                electronic typesetting, remaining essentially unchanged.
+                 We present to you very friendly, presentable, experienced,beautisians at our Rose Garden Beauty Parlor.
+                 Expense wise we our very affordable.Rose garden will be happy to have you as our patrons.
               </h2>
             </div>
           </div>
@@ -79,12 +76,8 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled it to make a type specimen book. It has
-                survived not only five centuries, but also the leap into
-                electronic typesetting, remaining essentially unchanged.
+                TMC is a unique place to be treated by qualified,experienced,specialized physicians.We have just completed our 
+                5th year in a row .We did pretty well during the last five years.Here we are celebriting our anniversary.
               </h2>
             </div>
           </div>
