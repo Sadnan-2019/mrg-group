@@ -75,8 +75,8 @@ const MoreNews = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                Our chef is foreign traiend.He does magic when he prepares delicious  food for you.Tulip garden  offers 
-                very competitive price on chinease,continental,thai & local food.
+                Look at the Double baded room at our Sunflower residence.This is looking good and comfortable.We have excellent 
+                room service and friendly front desk.
               </h2>
             </div>
           </div>
