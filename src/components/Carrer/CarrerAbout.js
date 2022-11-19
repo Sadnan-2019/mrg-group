@@ -11,7 +11,7 @@ const CarrerAbout = () => {
       <div className="grid grid-cols-1 lg:grid-cols-2 px-12 gap-10  items-center justify-items-center">
         <div>
           <p className="text-neutral text-1xl p-5">
-            We consider the people of MRG GROUP to be our greatest asset. We
+            We consider the people of MR GROUP to be our greatest asset. We
             serve the needs of our businesses by implementing key hiring
             processes and creating a performance-driven culture for the group’s
             companies.
