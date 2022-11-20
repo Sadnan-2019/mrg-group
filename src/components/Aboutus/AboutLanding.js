@@ -11,7 +11,8 @@ const AboutLanding = () => {
   <div className="hero-content text-center text-neutral-content">
     <div className="max-w-md">
       <h1 className="mb-5 text-5xl font-bold">About</h1>
-      <p className="mb-5">MR Group of Companies is one of the largest conglomerates in Bangladesh, Specialized in the Healthcare, Education, Convention Center & Advanced Poultry/ Fish Feeds Sector.</p>
+      <p className="mb-5">
+      MR Group is a collection of Companies and is one of the largest conglomerates in Bangladesh, Specialized in the Healthcare,Physiotherapy ,Education, Convention Center & Advanced Poultry/ Fisheries Sector</p>
        
     </div>
   </div>

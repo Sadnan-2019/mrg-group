@@ -142,9 +142,13 @@ const Landing = () => {
                     paralysis.we have equipments which are very latest,those
                     will help to reduce your suffering.
                   </p>
+
+                  <a href="https://leap.mrg.com.bd/" target="_blank" >
+
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+                  </a>
                 </div>
               </div>
             </div>
@@ -170,9 +174,14 @@ const Landing = () => {
                     desi food at any time. We have options for home delivery.We
                     are open for birthdays,matrimonial & any other parties.
                   </p>
+
+                  <a href="https://www.facebook.com/TulipgardenTrishal" target="_blank" >
+
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+
+                  </a>
                 </div>
               </div>
             </div>
@@ -228,9 +237,14 @@ const Landing = () => {
                     We have expert beautician for bridal-makeup.You can relay on
                     our friendly staff.We will fill-up all your make up needs.
                   </p>
+
+                  <a href="https://www.facebook.com/rosebeautytr" target="_blank">
+
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+                  </a>
+                 
                 </div>
               </div>
             </div>
@@ -255,9 +269,14 @@ const Landing = () => {
                     Trishal Convention Center can accomodate 2000 people at a
                     time.We are open for meetings,convocation & get together.
                   </p>
+
+                  <a href="https://www.facebook.com/TCCTrishal"  target="_blank">
+
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
                   </button>
+
+                  </a>
                 </div>
               </div>
             </div>

@@ -22,7 +22,7 @@ const CarrerAbout = () => {
             simple and effective services for the well-being of our people.
           </p>
           <p className="text-neutral text-1xl p-5">
-            If you have the expertise and the desire to join MRG GROUP, click
+            If you have the expertise and the desire to join MR GROUP, click
             the button below for possibilities and opportunities.
           </p>
           <div className="py-2 px-5">
