@@ -157,10 +157,10 @@ const Landing = () => {
             <div
               className="hero    sm:min-h-screen-0 lg:min-h-screen landingfive "
               style={{
-                backgroundImage: `url("https://insanelygoodrecipes.com/wp-content/uploads/2022/01/Cheeseburger-Sliders-with-Vegetables-and-Sesame-Seeds.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/ncNZSbf/tulip.jpg")`,
               }}
             >
-              <div className=" hero-overlay bg-opacity-60"></div>
+              <div className=" hero-overlay bg-opacity-0"></div>
               <div className="hero-content text-center text-neutral-content  ">
                 <div className="max-w-lg">
                   <h1
@@ -175,7 +175,7 @@ const Landing = () => {
                     are open for birthdays,matrimonial & any other parties.
                   </p>
 
-                  <a href="https://www.facebook.com/TulipgardenTrishal" target="_blank" >
+                  <a href="https://i.ibb.co/9Yzvk2F/Food-Facebook-Cover-Banner.png" target="_blank" >
 
                   <button className="btn     btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
                     Get Started
@@ -251,9 +251,9 @@ const Landing = () => {
           </div>
           <div className="">
             <div
-              className="hero    sm:min-h-screen-0 lg:min-h-screen landingseven"
+              className="hero    sm:min-h-screen-0 lg:min-h-screen   landingseven  "
               style={{
-                backgroundImage: `url("https://communitycenterbd.com/wp-content/uploads/2018/10/Celebrity-Convention-Hall.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/7Q5PP0B/Tcc-Web-banner-2-min.png")`,
               }}
             >
               <div className=" hero-overlay bg-opacity-60"></div>
