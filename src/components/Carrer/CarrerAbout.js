@@ -26,9 +26,9 @@ const CarrerAbout = () => {
             the button below for possibilities and opportunities.
           </p>
           <div className="py-2 px-5">
-            {/* <button className="btn btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
-              Drop your cv
-            </button> */}
+            <button className="btn btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+              Contact
+            </button>
           </div>
         </div>
         <div className="py-4">

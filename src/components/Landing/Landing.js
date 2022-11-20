@@ -91,7 +91,7 @@ const Landing = () => {
             <div
               className="hero sm:min-h-screen-0 lg:min-h-screen landingtwo  "
               style={{
-                backgroundImage: `url("https://techcrunch.com/wp-content/uploads/2015/09/portea-provides-home-healthcare-across-24-cities-in-india-and-4-in-malaysia.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/vJQVZ9r/nurseservice.jpg")`,
               }}
             >
               <div className="hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
