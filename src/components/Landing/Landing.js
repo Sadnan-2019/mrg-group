@@ -55,7 +55,7 @@ const Landing = () => {
         // data-aos-duration="3000"
       >
         <Slider {...settings}>
-          <div className=" ">
+          <div className="  ">
             <div
               className="hero sm:min-h-fit text-red-700  sm:min-h-screen-0 lg:min-h-screen bg-cover landingone  "
               style={{
