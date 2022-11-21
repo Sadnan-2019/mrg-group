@@ -3,7 +3,28 @@
   color: rgb(5, 2, 14);
 }
 
-@media only screen and (max-width: 375px) {
+
+.landing{
+  background-image: linear-gradient(
+    to left,
+    rgba(243, 238, 234, 0),
+    rgba(248, 251, 251, 0.3)
+  ),
+  url("https://i.ibb.co/tZTT0hD/tmc-web-banner.png");
+
+background-repeat: no-repeat;
+background-size: cover;
+
+height: 100vh;
+background-position: center center;
+background-attachment: fixed;
+ 
+
+}
+
+
+
+@media only screen and (max-width: 393px) {
   .landingone {
     width: 100%;
     background-image: 
@@ -12,17 +33,17 @@
         rgba(243, 238, 234, 0),
         rgba(230, 242, 244, 0.837)
       ), */
-      url("https://shrimangalmurtihospital.com/wp-content/uploads/2021/07/img-orthopedic-surgery.jpg");
+      url("https://i.ibb.co/tZTT0hD/tmc-web-banner.png");
   
-    color: red;
+    color: rgb(253, 250, 250);
     background-size: contain;
     background-size: cover;
 
-    background-size: 100% 100%;
+    background-size: 100% 80%;
     
     line-height: 120%;
     background-repeat: no-repeat;
-    /* background-position: center; */
+    background-position: center;
   }
   .landingtwo {
     width: 100%;

@@ -70,7 +70,7 @@ const News = () => {
               <img
                 src="https://i.ibb.co/nfm7qcR/tmcnews.jpg"
                 alt="Shoes"
-                className="  p-4  "
+                className=" hover:  transition duration-500 hover:scale-110  p-4  "
                 style={{ height: "250px", borderRadius: "25px" }}
               />
             </figure>

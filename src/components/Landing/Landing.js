@@ -57,9 +57,9 @@ const Landing = () => {
         <Slider {...settings}>
           <div className=" ">
             <div
-              className="hero sm:min-h-screen-0 lg:min-h-screen landingone   "
+              className="hero sm:min-h-fit text-red-700  sm:min-h-screen-0 lg:min-h-screen bg-cover landingone  "
               style={{
-                backgroundImage: `url("http://www.vanajahospital.com/assets/images/slider/advanced-laproscopic-surgeon-2.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/tZTT0hD/tmc-web-banner.png")`,backgroundSize:"cover"
               }}
             >
               <div className=" hero-overlay  sm:bg-opacity-0 lg:bg-opacity-60"></div>
@@ -157,7 +157,7 @@ const Landing = () => {
             <div
               className="hero    sm:min-h-screen-0 lg:min-h-screen landingfive "
               style={{
-                backgroundImage: `url("https://i.ibb.co/ncNZSbf/tulip.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/zJD0YnN/tulip-2.png")`,
               }}
             >
               <div className=" hero-overlay bg-opacity-0"></div>

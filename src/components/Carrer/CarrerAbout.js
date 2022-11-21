@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import career from "../../assets/carreer.png"
 const CarrerAbout = () => {
   return (
@@ -26,9 +27,9 @@ const CarrerAbout = () => {
             the button below for possibilities and opportunities.
           </p>
           <div className="py-2 px-5">
-            <button className="btn btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
+            <Link  to="/contact" className="btn btn-xs sm:btn-sm md:btn-md mb-4 bg-gradient-to-r from-[#303640] to-[#103264]">
               Contact
-            </button>
+            </Link>
           </div>
         </div>
         <div className="py-4">
