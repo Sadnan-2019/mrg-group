@@ -57,7 +57,7 @@ const Landing = () => {
         <Slider {...settings}>
           <div className="  ">
             <div
-              className="hero sm:min-h-fit text-red-700  sm:min-h-screen-0 lg:min-h-screen bg-cover landingone  "
+              className="hero sm:min-h-fit text-red-700  sm:min-h-screen-0 lg:min-h-screen		bg-cover landingone  "
               style={{
                 backgroundImage: `url("https://i.ibb.co/tZTT0hD/tmc-web-banner.png")`,backgroundSize:"cover"
               }}
