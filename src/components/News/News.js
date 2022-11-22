@@ -1,5 +1,6 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import free from "../../assets/FREE.jpg";
 const News = () => {
   return (
     <div>
@@ -69,6 +70,28 @@ const News = () => {
             <figure className="">
               <img
                 src="https://i.ibb.co/nfm7qcR/tmcnews.jpg"
+                alt="Shoes"
+                className=" hover:  transition duration-500 hover:scale-110  p-4  "
+                style={{ height: "250px", borderRadius: "25px" }}
+              />
+            </figure>
+            <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
+              <h2 className=" text-justify ">
+                TMC is a unique place to be treated by qualified,experienced,specialized physicians.We have just completed our 
+                5th year in a row .We did pretty well during the last five years.Here we are celebriting our anniversary.
+              </h2>
+            </div>
+          </div>
+          <div
+            className="card  border     "
+            data-aos="flip-left"
+            data-aos-easing="ease-out-cubic"
+            data-aos-duration="2000"
+            style={{ height: "500px" }}
+          >
+            <figure className="">
+              <img
+                src={free}
                 alt="Shoes"
                 className=" hover:  transition duration-500 hover:scale-110  p-4  "
                 style={{ height: "250px", borderRadius: "25px" }}
