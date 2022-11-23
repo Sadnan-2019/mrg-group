@@ -62,7 +62,7 @@ const Landing = () => {
                 backgroundImage: `url("https://i.ibb.co/tZTT0hD/tmc-web-banner.png")`,backgroundSize:"cover"
               }}
             >
-              <div className=" hero-overlay  sm:bg-opacity-0 lg:bg-opacity-60"></div>
+              <div className=" hero-overlay  sm:bg-opacity-60 lg:bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-md">
                   <h1
@@ -94,7 +94,7 @@ const Landing = () => {
                 backgroundImage: `url("https://i.ibb.co/vJQVZ9r/nurseservice.jpg")`,
               }}
             >
-              <div className="hero-overlay sm:bg-opacity-0 lg:bg-opacity-60"></div>
+              <div className="hero-overlay sm:bg-opacity-60 lg:bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-lg">
                   <h1
@@ -160,7 +160,7 @@ const Landing = () => {
                 backgroundImage: `url("https://i.ibb.co/zJD0YnN/tulip-2.png")`,
               }}
             >
-              <div className=" hero-overlay bg-opacity-0"></div>
+              <div className=" hero-overlay bg-opacity-20"></div>
               <div className="hero-content text-center text-neutral-content  ">
                 <div className="max-w-lg">
                   <h1
@@ -193,7 +193,7 @@ const Landing = () => {
                 backgroundImage: `url("https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/DCTM_Penguin_UK_DK_AL644648_p7nd0z.jpg")`,
               }}
             >
-              <div className=" hero-overlay bg-opacity-"></div>
+              <div className=" hero-overlay bg-opacity-60"></div>
               <div className="hero-content text-center text-neutral-content ">
                 <div className="max-w-lg">
                   <h1

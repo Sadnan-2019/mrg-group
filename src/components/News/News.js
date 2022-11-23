@@ -23,18 +23,18 @@ const News = () => {
                 src="https://i.ibb.co/QcMVHtK/9.png"
                 alt="Shoes"
                 className=" w-full  p-4  hover:  transition duration-500 hover:scale-110 "
-                style={{  height:"250px",borderRadius: "25px" }}
+                style={{ height: "250px", borderRadius: "25px" }}
               />
               {/* <img src="https://i.ibb.co/QcMVHtK/9.png" className="p-2        hover:  transition duration-500 hover:scale-110" alt="" /> */}
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                For the people of mymenshing division we have opened up a branch of our physiotherapy center and the name is LEAP.That 
-                stands for life enrichment  acitivity program.
+                For the people of mymenshing division we have opened up a branch
+                of our physiotherapy center and the name is LEAP.That stands for
+                life enrichment acitivity program.
               </h2>
             </div>
           </div>
-
 
           <div
             className="card  border w-full h-full    "
@@ -48,18 +48,20 @@ const News = () => {
                 src="https://i.ibb.co/5j6X7FN/rosenews.jpg"
                 alt="Shoes"
                 className=" w-full  p-4  hover:  transition duration-500 hover:scale-110 "
-                style={{  height:"250px",borderRadius: "25px" }}
+                style={{ height: "250px", borderRadius: "25px" }}
               />
               {/* <img src="https://i.ibb.co/QcMVHtK/9.png" className="p-2        hover:  transition duration-500 hover:scale-110" alt="" /> */}
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                 We present to you very friendly, presentable, experienced,beautisians at our Rose Garden Beauty Parlor.
-                 Expense wise we our very affordable.Rose garden will be happy to have you as our patrons.
+                We present to you very friendly, presentable,
+                experienced,beautisians at our Rose Garden Beauty Parlor.
+                Expense wise we our very affordable.Rose garden will be happy to
+                have you as our patrons.
               </h2>
             </div>
           </div>
-          
+
           <div
             className="card  border     "
             data-aos="flip-left"
@@ -77,8 +79,10 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                TMC is a unique place to be treated by qualified,experienced,specialized physicians.We have just completed our 
-                5th year in a row .We did pretty well during the last five years.Here we are celebriting our anniversary.
+                TMC is a unique place to be treated by
+                qualified,experienced,specialized physicians.We have just
+                completed our 5th year in a row .We did pretty well during the
+                last five years.Here we are celebriting our anniversary.
               </h2>
             </div>
           </div>
@@ -99,12 +103,12 @@ const News = () => {
             </figure>
             <div className="h-4/5 items-center text-center bg-gradient-to-r from-[#303640] to-[#103264] text-white p-4  ">
               <h2 className=" text-justify ">
-                TMC is a unique place to be treated by qualified,experienced,specialized physicians.We have just completed our 
-                5th year in a row .We did pretty well during the last five years.Here we are celebriting our anniversary.
+                TMC is a unique place to be treated by qualified,experienced,specialized physicians. We have successfully just completed our
+                free school health program in a row.Different organizations and
+                students with parents attend our free school health program.
               </h2>
             </div>
           </div>
-          
         </div>
         <div className="py-2 px-5   flex justify-center">
           <Link to="/news-media">

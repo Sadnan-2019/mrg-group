@@ -1,5 +1,5 @@
 import React from "react";
-import akij from "../../assets/akij.jpg";
+import akij from "../../assets/tmc && tcc.jpeg";
 const AboutDetails = () => {
   return (
     <div>
@@ -35,9 +35,9 @@ const AboutDetails = () => {
           </div>
           <div data-aos="zoom-in"
         data-aos-offset="300"
-        data-aos-delay="5000"
+        // data-aos-delay="5000"
         data-aos-duration="3000">
-            <img className="p-4" src={akij} alt="" />
+            <img className="p-4 rounded-lg" src={akij} alt="" />
           </div>
         </div>
       </div>
