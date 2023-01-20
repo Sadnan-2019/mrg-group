@@ -123,10 +123,10 @@ const Landing = () => {
             <div
               className="   hero    sm:min-h-screen-0 lg:min-h-screen  landingthree    "
               style={{
-                backgroundImage: `url("https://stepupstudent.com/wp-content/uploads/2019/08/cropped-72dea39e-6316-11e7-b1de-0034c3d6ea80.jpg")`,
+                backgroundImage: `url("https://i.ibb.co/6RWDgGd/leapteam.jpg")`,
               }}
             >
-              <div className="hero-overlay bg-opacity-60"></div>
+              <div className=" "></div>
               <div className="hero-content text-center text-neutral-content">
                 <div className="max-w-lg">
                   <h1
